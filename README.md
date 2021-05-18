@@ -5,7 +5,9 @@ This program includes statistical analysis of historical pandemic and epidemic e
 
 It is coded in R, which is an open source statistical software.
 
-The sample program has been tested using R4.0.4.# File Structure 
+The sample program has been tested using R4.0.4.
+
+# File Structure 
 **Root folder**
 
 
