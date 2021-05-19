@@ -1,0 +1,822 @@
+Name,Category,Pandemic,Start_Year,End_Year,Duration,Death,Confirmed_Case,Population,Case_Fatality_Rate,Mortality_Rate,Infection_Rate,AG_Infant,AG_Children,AG_Young_Adult,AG_Mid_Age,AG_Old,Country_Region
+Afghan Cholera Epidemic,Cholera,No,1930,1946,16.49885845,2141,3855,,0.56,,,,,,,,Africa
+Afghan Influenza Epidemic of 1918,Influenza,No,1918,1919,1.610730594,10000,,,,,,,,,,,Africa
+Afghan Smallpox Epidemic of 1970–72,Smallpox,No,1970,1972,2.998858447,,1044,,,,,,,,,,Africa
+African AIDS Epidemics,HIV/AIDS,No,1970,2010,40.99885845,,,,,,,,,,,,Africa
+African and Asian Conjunctivitis Pandemic of 1969–71,Acute hemorrhagic conjunctivitis (AHC),Yes,1969,1971,2,,,,,,,,,,,,Africa
+African Cholera Pandemic of 1989–91,Cholera,Yes,1989,1991,2.998858447,25000,210000,,0.119047619,,,,,,,,Africa
+African Influenza Epidemic of 1890,Influenza,No,1890,1890,0.998858447,,,,,,,,,,,,Africa
+African Malaria Epidemics of the 1990s–2006,Malaria,No,1990,2006,16.99885845,1500000,400000000,,,,,1,,,,,Africa
+Albenga Meningitis Epidemic of 1815,cerebrospinal meningitis (CSM),No,1815,1815,0.998858447,,,,,,,,,,,,Switzerland
+Algerian Malaria Epidemic of 1941,Malaria,No,1941,1941,0.998858447,,,,,,,,,,,,Algeria
+Algerian Relapsing Fever Epidemic of 1943–46,Relapsing Fever,No,1943,1946,3,2000,31847,,,,,,,,,,Algeria
+Algerian Typhus Epidemic of 1942–44,Typhus,No,1942,1944,2.998858447,12840,52000,,,,,,,,,,Algeria
+Angolan Cholera Epidemic of 2006,Cholera,No,2006,2006,0.915525114,80000,,,,,,,,,,,Angola
+Angolan Marburg Fever Epidemic of 2004–05,Ebola,No,2004,2005,1.099771689,329,374,,0.879679144,,,,,,,,Angola
+Angolan Poliomyelitis Epidemic of 1999,Poliomyelitis,No,1998,2005,7.082191781,50,1000,,0.05,,,,1,,,,Angola
+Angolan Smallpox Epidemic of 1864–65,Smallpox,No,1864,1865,1.998858447,25000,,,,,0.333333333,,,,,,Angola
+Antonine Plague (Plague of Galen),Smallpox,No,165,180,15.99885845,,,,,,,,,,,,Europe and Minor Asia
+Ashanti Influenza Epidemic of 1918,Influenza,No,1918,1918,0.269178082,9000,,,,,,,,,,,Ashanti
+Ashanti Plague of 1924–25,Plague,No,1924,1925,1.998858447,140,166,,0.843373494,,,,,,,,Ashanti
+Asian Influenza Pandemic of 1957–58,Influenza,Yes,1957,1968,11.91552511,,,,,,,,,,,,Asia
+Asiatic and European Influenza Pandemic of 1830–31,Influenza,Yes,1829,1831,2.166666667,,,,0.005369466,0.001262448,0.235116104,,,,,,"Asia, Europe"
+Asiatic and European Influenza Pandemic of 1836–37,Influenza,Yes,1836,1837,1.248858447,,,,,,0.5,,,,,,"Asia, Europe"
+Asiatic Cholera Pandemic of 1817–23,Cholera,Yes,1817,1823,6.415525114,,,,,,,,,,,,Asia 
+Asiatic Cholera Pandemic of 1826 - 37,Cholera,Yes,1826,1837,11.99885845,170000,,,0.4,,,,,,,,India
+Asiatic Cholera Pandemic of 1846–63,Cholera,Yes,1846,1863,17.99885845,,,,,,,,,,,,India
+Asiatic Cholera Pandemic of 1865–75,Cholera,Yes,1865,1875,10.99885845,968866,,,,,0.33,,,,,,India
+Asiatic Cholera Pandemic of 1881–96,Cholera,Yes,1881,1896,15.99885845,60000,,,0.375,,,,,,,,India
+Asiatic Cholera Pandemic of 1899–1923,Cholera,Yes,1899,1923,24.99885845,2519623,,,,,,,,,,,India
+Asiatic Cholera Pandemic of 1961–75,Cholera,Yes,1961,1962,1.998858447,,,,0.166666667,,,,,,,,Indonesia
+Asiatic Influenza Pandemic of 1889–90,Influenza,Yes,1889,1890,1.665525114,,,,,,0.8,,,,,,Uzbekistan
+Astrakhan Cholera Epidemic of 1823,Cholera,No,1823,1823,0.998858447,,,,0.522959184,,,,,,,,Russia
+Astrakhan Plague of 1727–28,Plague,No,1727,1728,1.498858447,3000,,20000,,0.15,,,,,,,Russia
+"Athens, Great Plague of (Plague of Thucydides)",Plague,No,-430,-430,0.998858447,,,,,0.333333333,,,,,,,Europe
+Augsburg Typhus Epidemic of 1703–04,Typhus,No,1703,1704,1.998858447,6006,,,,,,,,,,,Germany
+Australian Influenza Epidemic of 1918–19,Influenza,No,1918,1919,0.748858447,9185,,,0.261,,0.3,,,,,,Australia
+Australian Murray Valley Encephalitis Epidemics,Encephalitis,No,1917,1974,57.99885845,133,,,,,,,,,,,Australia
+Australian Rubella Epidemic of 1938–41,Measles,No,1938,1941,3.998858447,,,,,,,,,,,,Australia
+Australian Scarlet Fever Epidemic of 1875–76,Scarlet Fever,No,1875,1876,0.829452055,575,9000,,0.063888889,,,1,,,,,Australia
+Australian Smallpox Epidemic of 1788–89,Smallpox,No,1788,1789,1.998858447,,,,,0.5,,,,,,,Australia
+Austrian and Prussian Typhus Epidemics of 1805–07,Typhus,No,1805,1807,2.998858447,50000,,,,0.25,,,,,,,Austria
+Avian Influenza (Bird Flu) Outbreaks,Influenza,No,1997,1997,0.998858447,127,225,,0.7,,,,,,,,World
+Bahamian Yellow Fever Epidemic of 1862–64,Yellow Fever,No,1862,1864,2.998858447,2500,,6000,,0.416666667,,,,,,,Bahama
+Bangkok Poliomyelitis Epidemic of 1952,Poliomyelitis,No,1952,1952,0.25,23.28,388,,0.06,,,,,,,,Thailand
+Bangladeshi Smallpox Epidemic of 1971–73,Smallpox,No,1971,1973,1.416666667,7000,45214,,0.065092059,,,,,,,,India
+Barbadian Yellow Fever Epidemic of 1647,Yellow Fever,No,1647,1647,0.998858447,5000,,,0.8,,,,,,,,Barbados
+Barbadian Yellow Fever Epidemic of 1691,Yellow Fever,No,1691,1691,0.998858447,3100,,55000,,0.056363636,,,,,,,Barbados
+Barcelona Yellow Fever Epidemic of 1821,Yellow Fever,No,1821,1821,0.998858447,19000,,120000,,0.158333333,,,,,,,Spain
+Basel Plague of 1610–11,Plague,No,1610,1611,1.998858447,3968,6408,15000,0.619225968,0.264533333,0.4272,,,,,,Switzerland
+"Black Death (Black Plague, Bubonic Plague, Second Plague Pandemic)",Plague,Yes,1332,1351,19.99885845,50000000,,,,,,,,,,,"Asia, Europe"
+Blackfoot Indian Smallpox Epidemic of 1837–38,Smallpox,No,1837,1838,1.582191781,4000,,,,,,,,,,,"USA, Canada"
+Bolivian Hemorrhagic Fever Epidemic of 1959–64,Machupo Virus,No,1959,1962,3.998858447,150,750,5000,0.2,0.03,0.15,,,,,,Bolivia
+Boston Smallpox Epidemic of 1666,Smallpox,No,1666,1666,0.998858447,40,500,4000,0.08,0.01,0.125,,,,,,USA
+Boston Smallpox Epidemic of 1677–78,Smallpox,No,1677,1678,1.998858447,,,,0.25,,,,,,,,USA
+Boston Smallpox Epidemic of 1702–03,Smallpox,No,1702,1703,1.998858447,300,,7000,,0.042857143,,,,,,,USA
+Boston Smallpox Epidemic of 1721–22,Smallpox,No,1721,1722,1.165525114,844,6000,11000,0.140666667,0.076727273,0.545454545,,,,,,USA
+Boston Smallpox Epidemic of 1763–64,Smallpox,No,1963,1964,1.998858447,170,,17500,0.01,0.009714286,,,,,,,USA
+Brazilian HIV/AIDS Epidemic,HIV/AIDS,No,1982,2004,22,,1820000,,,,0.0095,,,,,,Brazil
+Brazilian Malaria Epidemic of 1938–40,Malaria,No,1938,1940,2.998858447,,26000,290000,,,0.089655172,,,,,,Brazil
+Brazilian Onchocerciasis (River Blindness) Epidemic of 1996,Onchocerciasis,No,1996,1996,0.998858447,,8000,9200,,,0.869565217,,,,,,Brazil
+Brazilian Plagues of 1899–1988,Plague,No,1900,1903,3.979680365,609,6000,,0.1015,,,,,,,,Brazil
+Brazilian Plagues of 1899–1988,Plague,No,1935,1949,14.99885845,815,2973,,0.274133872,,,,,,,,Brazil
+Brazilian Plagues of 1899–1988,Plague,No,1935,1949,14.99885845,890,3125,,0.2848,,,,,,,,Brazil
+Brazilian Smallpox Epidemic of 1660,Smallpox,No,1660,1660,0.998858447,,44000,,0.9,,,,,,,,Brazil
+Brazilian Smallpox Epidemic of 1665–66,Smallpox,No,1665,1666,1.998858447,,,,,,,,,,,,Brazil
+Brazilian Smallpox Epidemic of 1878,Smallpox,No,1878,1878,0.998858447,56791,,,,,,,,,,,Brazil
+Brazilian Smallpox Epidemic of 1905,Smallpox,No,1905,1905,0.998858447,3800,,,,,,,,,,,Brazil
+Brazilian Smallpox Epidemic of 1967–71,Smallpox,No,1967,1967,0.998858447,,1492,,,,,,,,,,Brazil
+British Cholera Epidemic of 1832,Cholera,No,1831,1832,1.248858447,31000,,,,,,,,,,,UK
+British Cholera Epidemics of 1848–49 and 1853–54,Cholera,No,1848,1849,1.998858447,58000,,,,,,,,,,,UK
+British Cholera Epidemics of 1848–49 and 1853–54,Cholera,No,1853,1854,1.998858447,31000,,,,,,,,,,,UK
+British Cholera Epidemic of 1865–66,Cholera,No,1865,1866,1.998858447,15000,,,,,,,,,,,UK
+British Columbian Typhoid Epidemics of 1908–13,Typhoid,No,1908,1913,5.998858447,,226,,0.10095498,,,,,,,,Canada
+British Encephalitis Epidemic of 1919–31,Encephalitis,No,1919,1931,12.99885845,2373,4380,,0.5,,,,,,,,UK
+British Influenza Epidemic of 1918–19,Influenza,No,1918,1919,1.079452055,200000,,,,,,,,,,,UK
+British Influenza Epidemic of 1950–51,Influenza,No,1950,1951,0.188584475,50000,,,,,,,,,,,UK
+British Influenza Epidemic of 1957–58,Influenza,No,1957,1958,0.573972603,16000,12000000,,0.001333333,,,,,,,,UK
+British Influenza Epidemic of 1968–70,Influenza,No,1968,1969,0.498858447,30000,,,,,,,,,,,UK
+British “Legionnaires’ Disease” Outbreak of 2002,Legionnaire’s disease (LD),No,2002,2002,0.165525114,7,330,,0.125,,,,,,,,UK
+British “Mad Cow” Disease Outbreak,Creutzfeldt-Jakob disease (vCJD),No,1986,2006,20.99885845,1132,2065,,0.548184019,,,,,,,,UK
+British Mumps Epidemic of 2004–06,Mumps,No,2004,2006,2.998858447,,56390,,,,,,,,,,UK
+British Smallpox Epidemic of 1796,Smallpox,No,1796,1796,0.998858447,35000,,,,,,,,,,,UK
+British Smallpox Epidemic of 1816–19,Smallpox,No,1816,1819,3.998858447,5000,,,,,,,,,,,UK
+British Smallpox Epidemic of 1837–40,Smallpox,No,1837,1840,3.498858447,42000,,,,,,,,,,,UK
+British Smallpox Epidemic of 1871–72,Smallpox,No,1871,1874,3.998858447,51500,,,,,,,,,,,"UK, Ireland"
+British Smallpox Epidemic of 1901–02,Smallpox,No,1901,1902,1.998858447,2700,,,,,,,,,,,UK
+British Typhoid Epidemic in the Boer War,Typhoid,No,1899,1902,3.998858447,13000,77000,733333.3333,0.139047619,0.017727273,0.105,,,,,,South Africa
+Burmese Dengue Hemorrhagic Fever Epidemics of 1970 and 1971,Dengue,No,1970,1971,1.998858447,121,2659,,0.045505829,,,,,,,,Burma
+Burundian Meningitis Epidemic of 1992,cerebrospinal meningitis (CSM),No,1992,1992,0.165525114,215,1239,,0.173527038,,,,,,,,Burundi
+Cádiz Yellow Fever Epidemic of 1800,Yellow Fever,No,1800,1800,0.415525114,7950,,56785.71429,,0.14,,,,,,,Spain
+Cádiz Yellow Fever Epidemic of 1810,Yellow Fever,No,1810,1810,0.332191781,2788,,,,,,,,,,,Spain
+Cairo and Alexandria Diphtheria Epidemics of 1882–86,Diphtheria,No,1882,1886,4.998858447,3500,,605000,0.48,0.005785124,,,,,,,Egypt
+Calcutta Smallpox Epidemics of the 1800s,Smallpox,No,1832,1833,1.998858447,2814,,,,,,,,,,,India
+Calcutta Smallpox Epidemics of the 1800s,Smallpox,No,1837,1838,1.998858447,1548,,,,,,,,,,,India
+Calcutta Smallpox Epidemics of the 1800s,Smallpox,No,1843,1844,1.998858447,2949,,,,,,,,,,,India
+Calcutta Smallpox Epidemics of the 1800s,Smallpox,No,1849,1850,1.998858447,6431,,387398,,0.016600499,,,,,,,India
+Calcutta Smallpox Epidemics of the 1800s,Smallpox,No,1857,1857,0.998858447,3177,,,,,,,,,,,India
+Calcutta Smallpox Epidemics of the 1800s,Smallpox,No,1865,1865,0.998858447,4923,,,,,,,,,,,India
+Calcutta Smallpox Epidemics of the 1800s,Smallpox,No,1894,1895,1.998858447,2220,,,,,,,,,,,India
+Cambridge Typhus Epidemic of 1522 (Black Assize),Typhus,No,1522,1522,0.998858447,,,,,,,,,,,,UK
+Canadian Cholera Epidemics of 1832 and 1834,Cholera,No,1832,1834,2.998858447,25000,,,,,,,,,,,Canada
+Canadian Cholera Epidemic of 1849,Cholera,No,1849,1849,0.998858447,,,,,,,,,,,,Canada
+Canadian Cholera Epidemic of 1854,Cholera,No,1854,1854,0.25,5000,,,,,,,,,,,Canada
+Canadian Indian Smallpox Epidemic of 1837,Smallpox,No,1837,1838,1.998858447,,,,0.75,,,,,,,,Canada
+Canadian Influenza Epidemic of 1918–19,Influenza,No,1918,1919,0.582191781,175000,1000000,,0.175,,,,,,,,Canada
+Canadian Measles Epidemic of 1846–47,Measles,No,1846,1847,0.998858447,31,,,,,,,,,,,Canada
+"Canadian Smallpox Epidemic, Great",Smallpox,No,1755,1757,2.998858447,520,2750,,0.189090909,,,,,,,,Canada
+Canadian Typhus Epidemic of 1847,Typhus,No,1847,1847,0.665525114,14000,,,,,,,,,,,Canada
+Cape Colony and Cape Town Smallpox Epidemic of 1713,Smallpox,No,1713,1713,0.998858447,,,,,,,,,,,,South Africa
+Cape Colony and Cape Town Smallpox Epidemic of 1755,Smallpox,No,1755,1756,0.933105023,2000,,,,,,,,,,,South Africa
+Cape Colony and Cape Town Smallpox Epidemic of 1882–85,Smallpox,No,1882,1885,3.665525114,700,2300,,0.304347826,,,,,,,,South Africa
+Caribbean Dengue Epidemics of 1963–64 and 1968–69,Dengue,No,1963,1964,1.998858447,,50000,,,,,,,,,,"Cuba, Hispaniola, Puerto Rico, and Jamaica"
+Caribbean HIV/AIDS Epidemic,HIV/AIDS,No,1980,2010,30.99885845,27000,,,,,,,,,,,"Cuba, Hispaniola, Puerto Rico, and Jamaica"
+Carthaginian Plague of 396 B.C.,Smallpox,No,396,396,0.998858447,,,,,,,,,,,,Greece
+Cava Typhus Epidemic of 1083,Typhus,No,1083,1083,0.162785388,,,,,,,,,,,,Italy
+Cayuse Indian Measles Epidemic of 1847,Measles,No,1847,1847,0.998858447,,,,,,,,,,,,USA
+Central Asian Cholera Epidemic of 1870–72,Cholera,No,1870,1872,2.998858447,2261,3267,40000,0.692072238,0.056525,0.081675,,,,,,Russia
+Chadian Cholera Epidemic of 1971,Cholera,No,1971,1971,0.498858447,2337,8225,,0.284133739,,,,,,,,Chad
+Chadian Meningitis Epidemic of 1937–39,cerebrospinal meningitis (CSM),No,1937,1939,2.998858447,6500,10000,,0.65,,,,,,,,Chad
+Chadian Sleeping Sickness Epidemic of 1912–40,Sleeping Sickness,No,1912,1940,28.99885845,,,,,0.333333333,,,,,,,Chad
+Chadian Smallpox Epidemics of 1922–32,Smallpox,No,1922,1932,10.99885845,8000,40000,180000,0.2,0.033,0.222222222,,,,,,chad
+Charles V’s Army Epidemic at Metz,Unknown,No,1552,1553,0.832191781,10000,,75000,,0.133333333,,,,,,,France
+Charleston Yellow Fever Epidemic of 1699,Yellow Fever,No,1699,1699,0.29109589,180,,,,,,,,,,,USA
+Charleston Yellow Fever Epidemic of 1706,Yellow Fever,No,1706,1706,0.998858447,65,,1300,,0.05,,,,,,,USA
+Charleston Yellow Fever Epidemics of 1728 and 1732,Yellow Fever,No,1728,1728,0.998858447,430,,,,,,,,,,,USA
+Charleston Yellow Fever Epidemics of 1792–99,Yellow Fever,No,1792,1799,7.498858447,,,,,,,,,,,,USA
+Chinese Cholera Epidemic of 1820–22,Cholera,No,1820,1822,2.998858447,,,,,,,,,,,,China
+Chinese Cholera Epidemic of 1932,Cholera,No,1932,1932,0.832191781,32000,100000,,0.32,0.074,,,,,,,China
+Chinese Cholera Epidemics of 1937–42,Cholera,No,1937,1942,5.412785388,54087,61994,,0.74,,,,,,,,China
+Chinese Cholera Epidemic of 1945–46,Cholera,No,1945,1946,1.998858447,,,,0.275,0.1,,,,,,,China
+Chinese Dengue Epidemics of 1978–80,Dengue,No,1978,1980,2.998858447,14,22122,,0.000632854,,,,,,,,China
+Chinese HIV/AIDS Epidemic,HIV/AIDS,No,1985,2010,25.99885845,,,,,,0.001,,,,,,China
+Chinese Influenza Epidemic of 1918,Influenza,No,1918,1918,0.665525114,,,,,0.006,0.5,,,,,,China
+Chinese Plague of 1917–18,Plague,No,1917,1918,1.998858447,,16000,,,,,,,,,,China
+Chinese Plague of 1931–32,Plague,No,1931,1932,1.998858447,,20000,,,,,,,,,,China
+Colombian Smallpox Epidemic of 1776,Smallpox,No,1776,1776,0.998858447,6000,,33170,,0.180886343,,,,,,,Columbia
+Congolese Ebola Outbreaks of 2003 and 2005,Ebola,No,2002,2003,0.348173516,166,202,,0.821782178,,,,,,,,Congo
+Congolese Sleeping Sickness Epidemic of 1895–1906,African sleeping sickness (African trypanosomiasis),No,1895,1906,11.99885845,500000,,,0.3,,,,,,,,Congo
+Connecticut Smallpox Epidemic of 1634,Smallpox,No,1634,1640,6.998858447,,,,0.9,,,,,,,,USA
+Constantine Malaria Epidemic of 1941,Malaria,No,1941,1941,0.746118721,7725,192500,220000,0.04,0.035113636,0.875,,,,,,Algeria
+Constantinople Plague of c. A.D. 746–748,Plague,No,746,748,2.998858447,,,,,,,,,,,,Turkey
+Copenhagen Poliomyelitis Epidemic of 1952,Poliomyelitis,No,1952,1952,0.998858447,,3000,,,,,,,,,,Denmark
+"“Cough of Perinthus”, Hippocratic Epidemics",Plague,No,400,400,0.998858447,,,,,,,,,,,,Greece
+Cremona Diphtheria Epidemic of 1747–48,Diphtheria,No,1747,1748,1.998858447,1000,,,,,,,,,,,Italy
+Crimean War Epidemics,Cholera,No,1854,1856,2.998858447,,,,,,,,,,,,Cremea
+Crusader Epidemic at Acre,Scurvy,No,1189,1189,0.415525114,,,,,,,,,,,,Israel
+Crusader Epidemic at Adalia,Plague,No,1148,1148,0.998858447,,,,,,,,,,,,Turkey
+Crusader Epidemic at Al Mansurah,Scurvy,No,1250,1250,0.25,,,,,,,,,,,,Egypt
+Crusader Epidemic at Antioch,Typhoid,No,1098,1098,0.998858447,,,,,,,,,,,,Syria
+Crusader Epidemic at Damietta,Scurvy,No,1218,1219,1.248858447,,,,,0.175,,,,,,,Egypt
+"Cyprian, Plague of",Measles,No,251,266,15.99885845,,,,,,,,,,,,Mediterranean basin
+Dalmatian Plague of 1783–84,Plague,No,1783,1784,1.998858447,1201,,12010,,0.1,,,,,,,Croatia
+Dancing Mania,Cholera,No,1374,1374,0.498858447,,,,,,,,,,,,"Germany,France"
+Danzig Plague of 1709,Dancing Mania,No,1709,1709,0.582191781,32599,,,,,,,,,,,Poland
+Danzig Typhus Epidemic of 1807,Typhus,No,1807,1807,0.248858447,,,,,,,,,,,,Poland
+Danzig Typhus Epidemic of 1813,Typhus,No,1813,1813,0.882648402,11645,,,,,,,,,,,Poland
+Delhi Hepatitis Epidemic of 1955–56,Hepatitis,No,1955,1956,0.135388128,73,97000,1800000,0.000752577,4.06E-05,0.053888889,,,,,,India
+Durban Dengue Epidemic of 1926–27,Dengue,No,1926,1927,1.998858447,,50000,,,,,,,,,,South Africa
+Eastern European and Central Asian HIV/AIDS Epidemic,HIV/AIDS,No,1990,1990,0.998858447,,1500000,,,,0.0125,,,,,,Soviet Union
+Ecuadoran Plagues of 1908–88,Plague,No,1908,1988,80.99885845,,,,,,,,,,,,Ecuadoran
+Edinburgh Plague of 1530,Plague,No,1530,1530,0.998858447,,,,,,,,,,,,Scotland
+Edinburgh Plague of 1568–69,Plague,No,1568,1568,0.332191781,2500,,25000,,0.1,,,,,,,Scotland
+Edinburgh Plague of 1585,Plague,No,1585,1585,0.665525114,,,,,0.1,,,,,,,Scotland
+Edinburgh Plague of 1597,Plague,No,1597,1597,0.998858447,,,,,,,,,,,,Scotland
+Egyptian Cholera Epidemic of 1883,Cholera,No,1883,1883,0.998858447,58500,,,,,,,,,,,Egypt
+Egyptian Cholera Epidemic of 1902,Cholera,No,1902,1902,0.248858447,42000,,,,,,,,,,,Egypt
+Egyptian Cholera Epidemic of 1947,Cholera,No,1947,1947,0.214383562,20474,32978,,0.5,,,,,,,,Egypt
+Egyptian Malaria Epidemic of 1942–44,Malaria,No,1942,1944,2.998858447,200000,1000000,,0.2,,,,,,,,Egypt
+Egyptian Plague of 1347–49,Plague,No,1347,1349,2.998858447,,,100000,,,,,,,,,Egypt
+Egyptian Plague of 1834–35,Plague,No,1834,1835,1.498858447,30000,,,0.33,,,,,,,,Egypt
+Egyptian Relapsing Fever Epidemic of 1944–46,Relapsing Fever,No,1944,1946,1.996118721,3295,128541,,0.025633844,,,,,,,,Egypt
+Egyptian Rift Valley Fever Epidemic of 1977,Rift Valley Fever (RVF),No,1977,1977,0.248858447,598,18000,,0.033,,,,,,,,Egypt
+Egyptian Typhus Epidemic of 1940–45,Typhus,No,1940,1945,5.998858447,20000,110000,,0.2,,,,,,,,Egypt
+Encephalitis Lethargica (von Economo’s disease) Epidemic of 1915–26,Encephalitis,No,1915,1926,11.99885845,,,,0.25,,,,,,,,World
+"England, Great Plague of",Plague,No,1348,1350,2.582191781,,,,0.9,,,,,1,,,England
+English Plagues of the 1400s,Plague,No,1400,1499,99.99885845,,,,,,,,,,,,England
+English Plagues of the 1500s,Plague,No,1500,1599,99.99885845,,,,,,,,,,,,England
+English Smallpox Epidemic of 1751–53,Smallpox,No,1751,1753,2.082191781,1752,,,0.327586207,,,,,,,,England
+English Smallpox Epidemic of 1825–26,Smallpox,No,1825,1826,1.998858447,,,,,,,,,,,,England
+English Sweating Sickness (English Sweat) Epidemics,Sweating Sickness,No,1485,1551,66.41552511,10000,,,,,,,,,,,England
+English Typhus Epidemic of 1816–19,Typhus,No,1816,1819,3.998858447,450,,,,,,,,,,,British Isle
+English Typhus Epidemic of 1837–38,Typhus,No,1837,1838,1.498858447,28000,,,,,,,,,,,British Isle
+English Typhus Epidemic of 1847–48,Typhus,No,1847,1858,11.74611872,30000,,,,,,,,,,,British Isle
+Ethiopian Cholera Epidemic of 1889–1902,Cholera,No,1889,1902,13.99885845,,,,0.83390411,,,,,,,,Ethiopia
+Ethiopian Influenza Epidemic of 1918–19,Influenza,No,1918,1919,0.407305936,12000,,,,,,,,,,,Ethiopia
+Ethiopian Malaria Epidemic of 1958,Malaria,No,1958,1958,0.498858447,175000,3500000,,0.25,,0.15,1,1,,,,Ethiopia
+Ethiopian Smallpox Epidemics of 1886–98,Smallpox,No,1886,1898,12.99885845,,,,,,,,,,,,Ethiopia
+Ethiopian Typhus Epidemic of 1876,Typhus,No,1876,1876,0.248858447,5000,,,,,,,,,,,Ethiopia
+Ethiopian Yellow Fever Epidemic of 1960–62,Yellow Fever,No,1960,1962,2.998858447,30000,,1000000,,0.03,,,,1,1,,Ethiopia
+European Diphtheria Epidemic of the Late 1850s,Diphtheria,No,1855,1859,4.998858447,,,,,0.000517,,,,,,,Europe
+"European Influenza Epidemics of 1708–09, 1712, 1729–30, and 1732–33",Influenza,No,1708,1733,25.99885845,,,,,,,,,,,,Europe
+European Influenza Epidemics of 1742–43 and 1762,Influenza,No,1742,1743,1.998858447,,,,,,,,,,,,Europe
+European Influenza Pandemic of 1781–82,Influenza,Yes,1781,1782,1.998858447,,,,,,,,,,,,Europe
+European Influenza Pandemic of 1788–89,Influenza,Yes,1788,1789,1.832191781,,,,,,0.5,,,,,1,Europe
+European Influenza Pandemic of 1833,Influenza,Yes,1833,1833,0.998858447,,,,,,,,,,,,Europe
+European Influenza Pandemic of 1847–48,Influenza,Yes,1847,1848,1.998858447,14756,,,,,0.375,,,,,,Europe
+European Influenza Pandemic of 1889–90,Influenza,Yes,1889,1890,1.998858447,315000,,,,0.000875,0.42,,,1,1,,Europe
+European Malaria Epidemic of 1678–82,Malaria,No,1678,1682,4.998858447,,,,,,,,,,,,Europe
+European Malaria Epidemics of 1805–12 and 1823–27,Malaria,No,1805,1812,7.998858447,3000,,,0.375,0.1,,,,,,,Europe
+European Smallpox Pandemic of 1870–75,Smallpox,Yes,1870,1875,5.998858447,500000,,,,,,1,1,,,,Europe
+"European Sweating Sickness Epidemics, Northern",English Sweat,No,1529,1529,0.433105023,10000,,,,,,,,1,,,Europe
+Exeter Typhus Epidemic of 1586,Typhus,No,1586,1586,0.785616438,,,,,,,,,,,,England
+Faeroe (Faroe) Islands Measles Epidemic of 1846,Measles,No,1846,1846,0.758219178,,6000,7782,,,0.771010023,,,,,,Faeroe (Faroe) Islands
+Fiji Islands Dengue Epidemics of 1971–73,Dengue,No,1971,1973,2.832191781,,3111,,,,,,,,,,Fiji
+Fiji Islands Dengue Epidemics of 1975,Dengue,No,1975,1975,0.582191781,12,,,,,0.5,,1,1,,,Fiji
+Fiji Islands Epidemics of the Late 1700s and Early 1800s,Influenza,No,1791,1792,1.998858447,,,,,,,,,,,,Fiji
+Fiji Islands Measles Epidemics of 1875,Measles,No,1875,1875,0.998858447,40000,150000,150000,0.225,0.225,1,1,,,,1,Fiji
+Fiji Islands Measles Epidemics of 1903,Measles,No,1903,1903,0.998858447,1800,,,,,,1,1,1,,,Fiji
+Fiji Islands Measles Epidemics of 1911,Measles,No,1911,1911,0.998858447,326,,2226,,0.15,,,,,,,Fiji
+Finnish Ergotism Epidemics of the 1800s,Ergotism,No,1836,1871,35.99885845,,1400,,0.127,,,1,1,,,,Finland
+Florence Dysentery Epidemic of 1425,Dysentery,No,1425,1425,0.415525114,,500,,,,,1,1,,,,Italy
+Florence Plague of 1347–48,Plague,No,1347,1348,0.583333333,,,,1,0.6,,,,,,,Italy
+Florence Plague of 1417,Plague,No,1417,1417,0.998858447,4000,,40000,,0.1,,,,,,,Italy
+Florence Plague of 1430,Plague,No,1430,1430,0.998858447,2250,,,,,,1,1,,,,Italy
+Florence Plague of 1630–33,Plague,No,1630,1633,3.998858447,7000,,,,0.1,,,,,,,Italy
+French Army Syphilis Epidemic of 1494–95,Syphilis,No,1494,1495,1.248858447,,,,,,,,,,,,Italy
+French Army Typhus Epidemic of 1528,Typhus,No,1528,1528,0.998858447,17000,,,,0.607142857,,,,,,,Italy
+French Cholera Epidemic of 1832–33,Cholera,No,1832,1833,1.755479452,100000,,,0.375,,,,,,,,France
+French Cholera Epidemics of 1848–49,Cholera,No,1848,1849,1.998858447,150000,,,,,,,,,,,France
+"French Cholera Epidemics of 1853–54,",Cholera,No,1853,1854,1.998858447,150000,,,,,,,,,,,France
+French Cholera Epidemics of 1865–66,Cholera,No,1865,1866,1.998858447,,,,,,,,,,,,France
+French Dysentery Epidemic of 1738–42,Dysentery,No,1738,1742,4.998858447,30000,,,,,,,,,,,France
+French Dysentery Epidemic of 1779,Dysentery,No,1779,1779,0.998858447,175000,,,,,,,,,,,France
+French Influenza Epidemic of 1740,Influenza,No,1740,1740,0.496118721,2057,,,,,,,,,,,France
+French Miliary Fever Epidemics of the 1800s,Sweating Sickness,No,1821,1826,5.998858447,,,,0.17,,,,,1,1,,France
+French Plagues of 1450–1520,Plague,No,1450,1520,70.99885845,,,,,,,,,,,,France
+French Plagues of 1520–1600,Plague,No,1520,1600,80.99885845,,,,,,,,,,,,France
+French Plagues of 1625–40,Plague,No,1625,1640,15.99885845,,,,,,,,,,,,France
+French Polynesian Measles Epidemic of 1854,Measles,No,1854,1854,0.998858447,750,,,,,,,,,,,French Polynesia
+French Polynesian Measles Epidemic of 1950–51,Measles,No,1950,1951,1.998858447,,,,,,,1,1,1,,,French Polynesia
+French Typhus and Typhoid Epidemics of 1740–42,Typhus,No,1740,1742,2.998858447,55000,,,,,,,,,,,France
+French Typhus Epidemics of 1813–14,Typhus,No,1813,1814,1.998858447,11100,,,,,,,,,,,France
+Gabonese Ebola Epidemic of 2001–02,Ebola,No,2001,2002,0.299315068,50,60,,0.833333333,,,,,,,,Gabon
+Gabonese Ebola Outbreaks of 1996,Ebola,No,1996,1996,0.998858447,82,114,,0.719298246,,,,,,,,Gabon
+"German, Austrian, and Swiss Plagues of the 1500s",Plague,No,1500,1599,99.99885845,103000,,,,,,,,,,,"Germany, Austria,
+and Switzerland"
+"German, Austrian, and Swiss Plagues of 1663–68",Plague,No,1663,1668,5.998858447,,,,,,,,,,,,"Germany, Austria,
+and Switzerland"
+"German, Austrian, and Swiss Plagues of 1675–83",Plague,No,1675,1683,8.998858447,,,,,,,,,,,,"Germany, Austria,
+and Switzerland"
+German Cholera Epidemics of 1830–90,Cholera,No,1830,1890,60.99885845,,,,,,,,,,,,"Germany, Austria,
+and Switzerland"
+German Plagues of 1462–65,Plague,No,1462,1465,3.998858447,8800,,,,,,,,,,,Germany
+German Typhus Epidemic of 1734,Typhus,No,1734,1734,0.998858447,,,,,,,,,,,,Germany
+"German Typhus Epidemics of 1813–14, Northern and Central",Typhus,No,1813,1814,1.998858447,469000,,,,,,,,,,,Germany
+"German Typhus Epidemics of 1813–14, Southern",Typhus,No,1813,1814,1.998858447,,,,,,,,,,,,Germany
+"German Typhus, Typhoid, and Dysentery Epidemics of 1741–43",Typhus,No,1741,1743,2.998858447,,,,,,,,,,,,Germany
+Ghanian Malaria Epidemic of 1952–54,Malaria,No,1952,1954,2.998858447,28250,52000,77000,0.05,0.366883117,0.675324675,,,,,,Ghana
+Ghanian Meningitis Epidemics of 1945–49,cerebrospinal meningitis (CSM),No,1945,1949,4.998858447,3200,34000,,0.1,,,,,,,,Ghana
+Ghanian Plague of 1908,Plague,No,1908,1908,0.998858447,300,344,,0.872093023,,,,,,,,Ghana
+Ghanian Sleeping Sickness Epidemic of 1936–41,Sleeping Sickness,No,1936,1941,5.998858447,,12437,,,,,,,,,,Ghana
+Ghanian Smallpox Epidemic of 1945–47,Smallpox,No,1945,1947,2.998858447,608,3196,,0.18,,,,,,,,Ghana
+Ghanian Tuberculosis Epidemic of 1942–44,Tuberculosis,No,1942,1944,2.998858447,3200,,,,0.00264,,,,,,,Ghana
+Ghanian Yellow Fever Epidemic of 1926,Yellow Fever,No,1926,1926,0.998858447,150,,,,,,,,,,,Ghana
+Gibraltar Yellow Fever Epidemics of 1804–28,Yellow Fever,No,1804,1828,24.99885845,1631,,,,,,,,,,,Spain
+Gilbert and Ellice Islands Measles Epidemics of 1890,Measles,No,1890,1890,0.998858447,1000,,,,,,,,,,,Gilbert and Ellice Islands
+Gilbert and Ellice Islands Measles Epidemics of 1936,Measles,No,1936,1936,0.998858447,450,14282,27000,0.031508192,0.016666667,0.528962963,,,,,,Gilbert and Ellice Islands
+Granada Typhus Epidemic of 1489,Typhus,No,1489,1489,0.998858447,17000,,,,,,,,,,,Spain
+Greenlandic Smallpox Epidemic of 1733–34,Smallpox,No,1733,1734,1.998858447,70,,,,,,,,,,,Greenland
+Gros Ventre Indian Smallpox Epidemic of 1869,Smallpox,No,1869,1869,0.998858447,800,,,,,,,,,,,USA
+Guam Encephalitis Epidemic of 1947–48,Japanese B encephalitis (JBE),No,1947,1948,1.998858447,54,,,,,0.00065,1,1,,,,Guam
+Guam Mumps Epidemic of 1947–48,Mumps,No,1947,1948,1.998858447,,1647,24717,,,0.0666,,,,,,Guam
+Guatemalan Dysentery Epidemic of 1969–70,Dysentery,No,1969,1970,1.332191781,12000,130000,4717000,0.1,0.0025,0.02755989,1,,,,,Guatemala
+Guayaquil Yellow Fever Epidemics of 1740,Yellow Fever,No,1740,1740,0.998858447,8431,12000,,0.702583333,,,,,,,,Ecuador
+Guayaquil Yellow Fever Epidemics of 1743,Yellow Fever,No,1743,1743,0.998858447,,,,,,,,,,,,Ecuador
+Guayaquil Yellow Fever Epidemics of 1842,Yellow Fever,No,1842,1842,0.998858447,,,,,,,,,,,,Ecuador
+Guinean Smallpox Epidemic of 1967,Smallpox,No,1967,1967,0.998858447,103,1529,,0.126,,,1,1,,,,West African republic of Guinea
+Haitian Yellow Fever Epidemic of 1794–98,Yellow Fever,No,1794,1798,4.998858447,5150,,,,,,,,,,,Haiti
+Haitian Yellow Fever Epidemic of 1802,Yellow Fever,No,1802,1803,0.748858447,40000,,,,,,,,,,,Haiti
+Hamburg Cholera Epidemic of 1892,Cholera,No,1892,1892,0.280136986,8605,16956,66000,0.507489974,0.130378788,0.256909091,,,,,,Germany
+Havana Yellow Fever Epidemic of 1761–62,Yellow Fever,No,1761,1762,1.998858447,,,,,,,,,,,,Cuba
+Hawaiian Dengue Fever Outbreak of 2001,Dengue,No,2001,2002,0.823972603,,124,,,,,,,,,,USA
+Hawaiian Plague of 1899–1900,Plague,No,1899,1900,1.998858447,61,71,,0.85915493,,,,,,,,USA
+Hawaiian Smallpox Epidemic of 1853,Smallpox,No,1853,1853,0.665525114,2485,6405,,0.387978142,0.08,,,,,,,USA
+Henry IV’s Army Epidemics of 1081–83,Dysentery,No,1081,1083,2.998858447,,,,,,,,,,,,Germany
+Hispaniola Smallpox Epidemic of 1507,Smallpox,No,1507,1507,0.998858447,,,,,,,,,,,,Haiti and the Dominican Republic
+Hispaniola Smallpox Epidemic of 1518,Smallpox,No,1518,1518,0.998858447,,,,,0.996666667,,,,,,,Haiti and the Dominican Republic
+Hispaniola Yellow Fever Epidemic of 1495–96,Yellow Fever,No,1495,1496,1.998858447,,,,,,,,,,,,Haiti and the Dominican Republic
+HIV/AIDS Pandemic,HIV/AIDS,Yes,1975,2006,31.99885845,25000000,63600000,,0.393081761,,,,,,,,world
+Hong Kong Influenza Pandemic of 1968,Influenza,Yes,1968,1968,0.998858447,,,,,,0.15,1,,,1,1,China
+Hong Kong Plague of 1894,Plague,No,1894,1894,0.998858447,160000,,,,,,,,,,,China
+Houston Encephalitis Epidemic of 1964,Encephalitis,No,1964,1964,0.498858447,27,243,,0.111111111,,,,,,,,USA
+Huron Indian Epidemics of 1634–40,Influenza,No,1634,1640,6.998858447,,,,,0.5,,,,,,,Canada
+"Iceland, Great Plague of",Plague,No,1402,1404,2.998858447,,,,,0.45,,,,,,,Iceland
+Icelandic Plague of 1494–95,Plague,No,1494,1495,1.998858447,,,,,,,,,,,,Iceland
+Icelandic Smallpox Epidemic of 1707–09,Smallpox,No,1707,1709,2.998858447,15000,,50000,,0.3,,,,,,,Iceland
+Indian and Burmese Sprue Epidemic of 1943–45,Sprue,No,1943,1945,2.998858447,,3000,,,,,,,1,1,1,"India, Burma"
+Indian and Nepalese Encephalitis Epidemics of 2005 ,Japanese B encephalitis (JBE),No,2005,2005,0.998858447,2744,12865,,0.213291877,,,1,1,,,,"India, Nepal"
+Indian-Bangladeshi Cholera Epidemic of 1971,Cholera,No,1971,1971,0.691324201,3000,51000,,0.058823529,,,,,,,,"India, Bangladeshi"
+Indian Cholera Epidemic of 1781–83,Cholera,No,1781,1783,2.998858447,22000,,,,,,,,,,,India
+Indian Cholera Epidemic of 1817–18,Cholera,No,1817,1818,1.998858447,,,,0.494505495,,,,,,,,India
+Indian Cholera Epidemic of 1826–27,Cholera,No,1826,1827,1.998858447,89123,,,0.607954545,0.218189233,,,,,,,India
+Indian Cholera Epidemic of 1860–61,Cholera,No,1860,1861,1.998858447,117181,,,,,,,,,,,India
+Indian Cholera Epidemic of 1867–68,Cholera,No,1867,1868,1.998858447,,,,,,,,,,,,India
+Indian Cholera Epidemic of 1875–77,Cholera,No,1875,1877,2.998858447,,,,,,,,,,,,India
+Indian Cholera Epidemic of 1891–92,Cholera,No,1891,1892,1.998858447,1304384,,,,0.0034,,,,,,,India
+Indian Cholera Epidemic of 1900,Cholera,No,1900,1900,0.998858447,805698,,,,0.00372,,,,,,,India
+Indian Cholera Epidemic of 1964–66,Cholera,No,1964,1966,2.998858447,,,,,,,,,,,,India
+Indian Conjunctivitis Epidemic of 1971,Conjunctivitis,No,1971,1971,0.998858447,,,,,,0.95,,,1,,,India
+Indian Dengue Hemorrhagic Fever Epidemics,Dengue,No,1960,1960,0.998858447,,200000,,,,0.2,,,,,,India
+Indian Dengue Outbreak of 2006–07,Dengue,No,2006,2007,0.415525114,183,9940,,0.018410463,,,,,,,,India
+Indian Encephalitis Epidemic of 1977–78,Japanese B encephalitis (JBE),No,1977,1978,1.998858447,,1500000,,,,,,,,,,India
+Indian HIV/AIDS Epidemic,HIV/AIDS,No,2000,2010,10.99885845,,22500000,,,,,,,,,,India
+Indian Influenza Epidemic of 1918–19,Influenza,No,1918,1919,1.582191781,,12500000,,,,,,,,,,India
+Indian Influenza Epidemic of 1957–58,Influenza,No,1957,1958,1.624429224,1098,4451785,,0.000246643,0.000003,0.012366,,,,,,India
+"Indian Kala-azar Epidemics, Early",kala-azar (visceral leishmaniasis),No,1900,1900,0.998858447,75000,,,,,,,,,,,India
+"Indian Kala-azar Epidemics, Later",kala-azar (visceral leishmaniasis),No,1940,1970,30.99885845,,700000,,,,,,,,,,India
+Indian Kyasanur Forest Disease Epidemics of 1957–58,Kyasanur Forest Disease,No,1957,1958,1.998858447,47,466,,0.1,,,1,1,,,1,India
+Indian Malaria Epidemic of 1974–75,Malaria,No,1974,1975,1.998858447,,30000000,,,,,,,,,,India
+Indian Malaria Epidemics of the 1990s–2005,Malaria,No,1990,2005,15.99885845,,2500000,,,,,,,,,,India
+Indian Ocean Chikungunya Virus Epidemics of 2005–06,Chikungunya virus fever,No,2005,2006,1.998858447,,375000,,,,,,,,,,"Indian Ocean, India"
+Indian Plague of 1896–97,Plague,No,1896,1897,1.582191781,300000,,,0.8,,,,,,,,India
+Indian Plague of 1904–07,Plague,No,1904,1907,3.998858447,2000000,,,,0.027,,,,,,,India
+Indian Plague of 1994,Plague,No,1994,1994,0.332191781,300,,,,,,,,,,,India
+Indian Poliomyelitis Epidemics of World War II,Poliomyelitis,No,1942,1944,2.998858447,,,,0.17,0.0017,,,,,,,India
+Indian Smallpox Epidemic of 1769–70,Smallpox,No,1769,1770,1.998858447,63000,,,,,,,,,,,India
+Indian Smallpox Epidemic of 1973–74,Smallpox,No,1973,1974,1.998858447,30000,188000,,0.159574468,,,,,,,,India
+Indonesian Cholera Epidemic of 1821,Cholera,No,1821,1821,0.998858447,125000,,,,,,,,,,,Indonesia
+Indonesian Cholera Epidemic of 1961–62,Cholera,No,1961,1962,1.998858447,897,4107,,0.218407597,0.219,,,,,,,Indonesia
+Indonesian Influenza Epidemic of 1918,Influenza,No,1917,1919,2.998858447,1500000,,,,,,,,,,,Indonesia
+Indonesian Smallpox Epidemics of 1965–67,Smallpox,No,1965,1967,2.998858447,,56359,,,,,,,,,,Indonesia
+Iowan Mumps Epidemic of 2006,Mumps,No,2006,2006,0.998858447,,1100,,,,,,,,,,USA
+Iranian (Persian) Typhus Epidemic of 1942–44,Typhus,No,1942,1944,2.998858447,,44321,,,0.2,,,,,,,Iran
+Iraqi Schistosomiasis Epidemics of c. 1910–30,Schistosomiasis,No,1910,1930,20.99885845,,,,,,,,1,,,,Iraq
+"Ireland, Great Plague of",Plague,No,1348,1351,2.912785388,,,,,,,,,,,,Ireland
+Irish Pestilences of 1519–25,Plague,No,1519,1525,6.998858447,,,,,,,,,,,,Ireland
+Irish Pestilences of 1535–36,Plague,No,1535,1536,1.998858447,,,,,,,,,,,,Ireland
+Irish Plague of 1574–76,Plague,No,1574,1576,2.998858447,,,,,,,,,,,,Ireland
+Irish Plague of 1604–05,Plague,No,1604,1605,1.998858447,,,,,,,,,,,,Ireland
+Irish Plague of 1650–51,Plague,No,1650,1651,1.998858447,,,,,,,,,,,,Ireland
+Irish Typhus and Dysentery Epidemic of 1740–41,Typhus,No,1740,1741,1.998858447,,,,,,,,,,,,Ireland
+Irish Typhus and Dysentery Epidemic of 1817–18,Typhus,No,1817,1818,1.998858447,110000,1100000,6000000,0.3,0.018333333,0.183333333,,,,,,Ireland
+Irish Typhus and Dysentery Epidemic of 1846–50,Typhus,No,1846,1850,4.998858447,47300,450000,,0.105111111,,,,,,,,Ireland
+Irish Typhus Epidemics of 1708–10,Typhus,No,1708,1710,2.998858447,,,,,,,,,,,,Ireland
+Irish Typhus Epidemics of 1718–20,Typhus,No,1718,1720,2.998858447,,,,,,,,,,,,Ireland
+Irish Typhus Epidemics of 1728–30,Typhus,No,1728,1730,2.998858447,,,,,,,,,,,,Ireland
+Irish Typhus Epidemic of 1836–40,Typhus,No,1836,1840,4.998858447,,,,,,,,,,1,1,Ireland
+Iroquois Indian Smallpox Epidemic of 1662,Smallpox,No,1662,1662,0.998858447,10000,,20000,,0.5,,,,,,,USA
+Israeli Diphtheria Epidemics of 1950–51,Diphtheria,No,1950,1951,1.998858447,,2445,,0.006,,0.00148,,,,,,Israel
+Israeli Leptospirosis Epidemic of 1949–50,Leptospirosis,No,1949,1950,1.998858447,,1000,,0.015,,0.008,,,,,,Israel
+Israeli Poliomyelitis Epidemics of 1950–52,Poliomyelitis,No,1950,1952,2.998858447,397,3374,,0.117,,,,,,,,Israel
+Israeli West Nile Fever Epidemics of the 1950s,West Nile Virus (WNV),No,1950,1959,9.998858447,,,,,,,1,1,1,,,Israel
+Israeli West Nile Virus Epidemic of 2000,West Nile Virus (WNV),No,2000,2000,0.998858447,13,,,0.09,,,,,,1,1,Israel
+Italian Cholera Epidemic of 1866–67,Cholera,No,1866,1867,1.998858447,130000,,,,,,,,,,,Italy
+Italian Cholera Epidemic of 1884–85,Cholera,No,1884,1885,1.998858447,50000,100000,,0.5,,,,,,,,Italy
+Italian Diphtheria Epidemic of 1618,Diphtheria,No,1618,1618,0.582191781,8000,,,,,,,,,,,Italy
+Italian Influenza Epidemic of 1580,Influenza,No,1580,1580,0.998858447,,,,,,,,,,,,Italy
+Italian Meningitis Epidemics of 1839–45,cerebrospinal meningitis (CSM),No,1839,1845,6.998858447,,,,,,,,,1,1,,Italy
+Italian Plagues of 1477–79,Plague,No,1477,1479,2.998858447,40000,,,,,,,,,,,Italy
+Italian Plagues of 1629–31,Plague,No,1629,1631,2.998858447,280000,,,0.5,,,,,,,,Italy
+Italian Plagues of 1656–57,Plague,No,1656,1657,1.998858447,218000,,498000,,0.437751004,,,,,,,Italy
+Italian Smallpox Epidemics of 1814,Smallpox,No,1814,1814,0.998858447,,,,,,,,,,,,Italy
+Italian Smallpox Epidemic of 1870–72,Smallpox,No,1870,1872,2.998858447,2000,6000,,0.166666667,,,,,,,,Italy
+Italian Smallpox Epidemic of 1900–02,Smallpox,No,1900,1902,2.998858447,14951,60532,,0.25,,,,,,,,Italy
+Italian Smallpox Epidemic of 1920–21,Smallpox,No,1920,1921,1.998858447,12433,31097,,0.399813487,,,,,,,,Italy
+Italian Typhoid Epidemics of 1950–52,Typhoid,No,1950,1952,2.998858447,3572,87276,,0.040927632,0.000029,,,,,,,Italy
+Italian Typhus Epidemic of 1505,Typhus,No,1505,1505,0.998858447,,,,,,,,,,,,Italy
+Italian Typhus Epidemics of 1796–1800,Typhus,No,1796,1800,4.998858447,,,,,,,,,,,,Italy
+Italian Typhus Epidemic of 1816–18,Typhus,No,1816,1818,2.998858447,,,,0.18,,,,,,1,1,Italy
+Italian Whooping Cough Epidemics of 1901–05,Whooping Cough,No,1901,1905,4.998858447,60000,250000,,0.24,,,,1,,,,Italy
+Jamaican Yellow Fever Epidemic of 1655,Yellow Fever,No,1655,1655,0.998858447,1500,,,,,,,,,,,Jamaica
+Japanese Army Beriberi Epidemic of 1904–05,Beriberi,No,1904,1905,1.998858447,3956,97572,,0.040544418,,,,,,,,Japan
+Japanese Cholera Epidemic of 1822,Cholera,No,1822,1822,0.998858447,,,,,,,,,,,,Japan
+Japanese Cholera Epidemics of 1858–59,Cholera,No,1858,1859,1.998858447,3000000,,,,,,,,,,,Japan
+Japanese Cholera Epidemics of 1862,Cholera,No,1862,1862,0.998858447,,,,,,,,,,,,Japan
+Japanese Dengue Epidemics of 1942–45,Dengue,No,1942,1945,3.998858447,,2000000,,,,,,,,,,Japan
+Japanese Encephalitis Epidemics of the 1920s and 1930s,Japanese B encephalitis (JBE),No,1920,1939,19.99885845,12159,21355,,0.569374854,,,,,,1,1,Japan
+Japanese Epidemic of A.D. 585–587,Smallpox,No,585,587,2.998858447,,,,,,,,,,,,japan
+Japanese Epidemic of A.D. 994–995,Smallpox,No,994,995,1.998858447,,,,,0.5,,,,,,,Japan
+Japanese Influenza Epidemic of 1957–58,Influenza,No,1957,1958,1.64086758,6000,160000,,0.0375,,0.26,1,,,,1,Japan
+Japanese-Korean Typhus Epidemic of 1945–46,Typhus,No,1945,1946,1.998858447,160000,2000000,,0.08,,,,,,,,"Japan, Korea"
+Japanese Malaria Epidemic of 1945–46,Malaria,No,1945,1946,1.998858447,,16000,,,,0.5,,,,,,Japan
+Japanese Measles Epidemics of A.D. 998 and 1025,Measles,No,998,1025,27.99885845,,,,,,,,,,,,Japan
+Japanese Measles Epidemic of 1690–91,Measles,No,1690,1691,1.998858447,,,,,,,,,,,,Japan
+Japanese Measles Epidemic of 1708–09,Measles,No,1708,1709,0.665525114,,,,,,,,,,,,Japan
+Japanese Measles Epidemic of 1730–31,Measles,No,1730,1731,1.998858447,,,,,,,,,,,,Japan
+Japanese Measles Epidemic of 1753,Measles,No,1753,1753,0.998858447,,,,,,,,,,,,Japan
+Japanese Measles Epidemic of 1776,Measles,No,1776,1776,0.998858447,,,,,,,,,,,,Japan
+Japanese Measles Epidemic of 1803,Measles,No,1803,1803,0.998858447,,,,,,,,,,,,Japan
+Japanese Measles Epidemic of 1823–24,Measles,No,1823,1824,1.998858447,,,,,,,,,,,,Japan
+Japanese Measles Epidemic of 1862,Measles,No,1862,1862,0.998858447,,,,,,0.63,,,1,1,1,Japan
+Japanese Rubella Epidemic of 1684,Measles,No,1684,1684,0.998858447,7000,,,,,,,,,,,Japan
+Japanese Smallpox Epidemic of A.D. 735–737,Smallpox,No,735,737,2.998858447,,,,,,,,,,,,Japan
+Japanese Smallpox Epidemics of the Eighth and Ninth Centuries A.D.,Smallpox,No,700,899,199.9988584,,,,,,,,,,,,Japan
+Japanese Smallpox Epidemics of the Tenth Century A.D. ,Smallpox,No,1902,1902,0.226940639,,,,,,,,,,,,Japan
+Japanese Syphilis Epidemic of 1512,Syphilis,No,1512,1512,0.998858447,15000,,,,,,,,,,,Japan
+Javanese (Indonesian) Plague of 1910–14,Plague,No,1910,1914,4.998858447,,,,,,,,,,,,Indonesia
+Javanese (Indonesian) Plague of 1932–34,Plague,No,1932,1934,2.998858447,42585,,,0.9998,,,,,,,,Indonesia
+Javanese (Indonesian) Typhoid Epidemic of 1846–50,Typhoid,No,1846,1850,4.998858447,,,,0.393333333,,,,,,,,Indonesia
+Joachim’s Army Typhus Epidemic of 1542,Typhus,No,1542,1542,0.998858447,55000,,,,,,,,,,,Hungary
+"Justinian, Plague of (First Plague Pandemic)",Plague,Yes,542,590,48.99885845,,,,,,,,,,,,"Turkey, Egypt, Italy, Syria"
+Kenyan and Somali Rift Valley Outbreaks of 2006–07,Rift Valley Fever (RVF),No,2006,2007,1.998858447,478,3300,,0.144848485,,,,,,,,"Kenya, Somali"
+Kenyan Cholera Epidemic of 1974–75,Cholera,No,1974,1975,0.412785388,770,2773,,0.277677605,0.25,,,,,,,Kenya
+Kenyan Plague of 1941–42,Plague,No,1941,1942,1.998858447,529,1810,,0.292265193,,,,,,,,kenya
+Kenyan Relapsing Fever Epidemic of 1945–46,Relapsing Fever,No,1945,1946,1.998858447,800,2000,,0.4,,,,,,,,Kenya
+Kenyan Smallpox Epidemic of 1897–99,Smallpox,No,1897,1899,2.998858447,,,,0.4,,,,,,,,Kenya
+Kenyan Typhoid Epidemic of 1954,Typhoid,No,1954,1954,0.998858447,103,870,,0.118390805,,,,,,,,Kenya
+Kilimanjaro Plague of 1912,Plague,No,1912,1912,0.998858447,58,,,,,,,,,,,"Kenya, Tanzania"
+Korean Cholera Epidemics of 1821–22,Cholera,No,1821,1822,1.498858447,,,,0.9,,,,,,,,Korea
+Korean Cholera Epidemics of 1895,Cholera,No,1895,1895,0.998858447,300000,,,0.525,,,,,,,,Korea
+Korean Hemorrhagic Fever Epidemic of 1951–54,hemorrhagic fever with renal syndrome (HFRS),No,1951,1954,3.998858447,,3000,,0.08,,,,,,,,Korea
+Korean Hepatitis Epidemic of 1950–51,Hepatitis,No,1950,1951,1.998858447,,573,,,,,,,,,,Korea
+Latin American HIV/AIDS Epidemic,HIV/AIDS,No,1987,2010,23.99885845,,1500000,,,,0.2,,,,,,Latin America
+Libyan Plague of the First Century A.D.,Plague,No,100,100,0,,,,,,,,,,,,Lybia
+Livorno-Lucca Yellow Fever Epidemic of 1804,Yellow Fever,No,1804,1804,0.998858447,,750,,0.7,,,,,,,,Italy
+"London, Great Plague of",Plague,No,1664,1665,1.998858447,75000,,,,0.2,,,,,,,England
+Londonderry and Dundalk Typhus and Dysentery Epidemics of 1689,Typhus,No,1689,1689,0.998858447,6000,12000,,0.5,,,,,,,,Ireland
+London Plague of 1499–1500,Plague,No,1499,1500,1.582191781,30000,,,,,,,,,,,England
+London Plague of 1563,Plague,No,1563,1563,0.998858447,20000,,80000,,0.25,,,,,,,England
+London Plague of 1578,Plague,No,1578,1578,0.998858447,8000,,,,,,,,,,,England
+London Plague of 1593,Plague,No,1593,1593,0.998858447,17000,,150000,,0.113333333,,,,,,,England
+London Plague of 1603,Plague,No,1603,1603,0.998858447,35000,,250000,,0.14,,,,,,,England
+London Plague of 1625,Plague,No,1625,1625,0.998858447,60000,,300000,,0.2,,,,,,,England
+London Plague of 1636,Plague,No,1636,1636,0.998858447,10000,,350000,,0.028571429,,,,,,,England
+London Smallpox Epidemics of 1667–68,Smallpox,No,1667,1668,1.998858447,3200,,,0.166666667,,,,,,,,England
+London Smallpox Epidemics of 1674,Smallpox,No,1674,1674,0.998858447,2500,,,0.166666667,,,,,,,,England
+London Smallpox Epidemics of 1681,Smallpox,No,1681,1681,0.998858447,3000,,,0.166666667,,,,,,,,England
+London Smallpox Epidemic of 1721,Smallpox,No,1721,1721,0.998858447,,,,,,,,,,,,England
+London Smallpox Epidemic of 1710,Smallpox,No,1710,1710,0.998858447,3128,,,,,,,,,,,England
+London Smallpox Epidemic of 1714,Smallpox,No,1714,1714,0.998858447,2810,,,,,,,,,,,England
+London Smallpox Epidemic of 1719,Smallpox,No,1719,1719,0.998858447,3229,,,,,,,,,,,England
+London Typhus Epidemic of 1661–65,Typhus,No,1661,1665,4.998858447,15700,,,,,,,,,,,England
+London Typhus Epidemic of 1685–86,Typhus,No,1685,1686,1.998858447,8235,,,,,,,,,,,England
+London Typhus Epidemics of 1709–20,Typhus,No,1709,1720,11.99885845,32624,,,,,,,,,,,England
+London Typhus Epidemic of 1726–29,Typhus,No,1726,1729,3.998858447,19435,,,,,,,,,,,England
+London Typhus Epidemic of 1741–42,Typhus,No,1741,1742,1.998858447,,,,,,,,,,,,England
+London Typhus Epidemic of 1750,Typhus,No,1750,1750,0.998858447,,,,,,,,,,,,England
+London Typhus Epidemic of 1862–65,Typhus,No,1862,1865,3.998858447,10000,,,,,,,,,,,England
+Los Angeles Plague of 1924–25,Plague,No,1924,1925,1.998858447,36,41,,0.87804878,,,,,,,,USA
+Los Angeles Poliomyelitis Epidemic of 1934,Poliomyelitis,No,1934,1934,0.998858447,,2499,,,,,,,,,,USA
+Lyon Plague of 1564,Plague,No,1564,1564,0.998858447,,,60000,,,0.333333333,,,,,,France
+Lyon Plague of 1628–29,Plague,No,1628,1629,1.998858447,35000,,,,,,,,,,,France
+Madagascan Cholera Epidemic of 1999–2000,Cholera,No,1999,2000,1.832191781,1300,23000,,0.056521739,,,,,,,,Madagascar
+Madagascan Malaria Epidemic of 1987–88,Malaria,No,1987,1988,1.998858447,100000,,3000000,,0.033333333,,,,,,,Madagascar
+Madagascan Plague of 1924–25,Plague,No,1924,1925,1.998858447,2000,,,,,,,,,,,Madagascar
+Madagascan Plague of 1933–37,Plague,No,1933,1937,4.998858447,12000,13953,,0.860030101,,,,,,,,Madagascar
+Madagascan Smallpox Epidemic of 1817–18,Smallpox,No,1817,1818,1.998858447,,,,,,,,,,,,Madagascar
+Mainz Typhus Epidemic of 1813–14,Typhus,No,1813,1814,0.505479452,17500,30000,,0.583333333,,,,,,,,Germany
+Malaysian Nipah Outbreak of 1998–99,Nipah Virus,No,1998,1999,1.998858447,105,265,,0.396226415,,,,,,,,Malaysia
+Malaysian Poliomyelitis Epidemic of 1971–72,Poliomyelitis,No,1971,1972,1.332191781,,1600,,,,,,,,,,Malaysia
+Maldivian Cholera Epidemic of 1978,Cholera,No,1978,1978,0.248858447,252,11303,,0.022,,0.077,,,,,,Maldives
+Malian Cholera Epidemic of 1970–71,Cholera,No,1970,1971,0.415525114,2000,5000,,0.4,,,,,,,,Mali
+Malian Relapsing Fever Epidemic of 1921–22,Relapsing Fever,No,1921,1922,1.998858447,15000,108000,,0.138888889,,,,,,,,Mali
+Maltese Plague of 1675–76,Plague,No,1675,1676,1.998858447,11300,,70000,,0.161428571,,,,,,,Malta
+Maltese Plague of 1813,Plague,No,1813,1813,0.998858447,4486,,,,,,,,,,,Malta
+Maltese Poliomyelitis Epidemic of 1942–43,Poliomyelitis,No,1942,1943,1.998858447,,483,,,,,1,1,,,,Malta
+Manchurian and Mongolian Plagues of 1928–30,Plague,No,1928,1930,2.998858447,268,,,,,,,,,,,"China, Mongolia"
+Manchurian Cholera Epidemic of 1919,Cholera,No,1919,1919,0.998858447,10000,,,0.458,,,,,,,,China
+Manchurian Plague of 1910–11,Plague,No,1910,1911,1.998858447,60000,,,,,,,,,,,China
+Manchurian Plague of 1920–21,Plague,No,1920,1921,1.998858447,9300,,,,,,,,,,,China
+Mandan Indian Smallpox Epidemic of 1837,Smallpox,No,1837,1837,0.998858447,,,,,,,,,,,,USA
+Marburg Virus Epidemic of 1967,Unknown,No,1967,1967,0.998858447,,31,,0.25,,,,,,,,"Germany, Yugoslavia"
+"Marseille, Plague of",Plague,No,1720,1720,0.998858447,80000,,,,,,,,,,,France
+Massachusetts Smallpox Epidemic of c. 1617–19,Smallpox,No,1617,1619,2.998858447,,,,,0.9,,,,,,,USA
+Massachusetts Smallpox Epidemic of c. 1633,Smallpox,No,1633,1633,0.998858447,,,,,0.9,,,,,,,USA
+Massachusetts Smallpox Epidemic of 1648–49,Smallpox,No,1648,1649,1.998858447,,,,,,,,,,,,USA
+Mauritian Influenza Epidemic of 1919,Influenza,No,1919,1919,0.998858447,10000,100000,,0.1,,,,,,,,Mauritius
+Mauritian Malaria Epidemic of 1866–68,Malaria,No,1866,1868,2.998858447,300000,,,,0.25,,,,,,,Mauritius
+Maximilian II’s Army Typhus Epidemic,Typhus,No,1542,1542,0.998858447,,,,,,,,,,,,Hungary
+Mecca Cholera Epidemic of 1865,Cholera,No,1865,1865,0.998858447,30000,90000,,0.333333333,,,,,,,,Saudi Arabia
+Mexican Cholera Epidemic of 1833,Cholera,No,1833,1833,0.998858447,17963,,,,,,,,,,,Mexico
+Mexican-Guatemalan Smallpox Epidemic of 1797,Smallpox,No,1797,1797,0.998858447,19500,125000,,0.156,,,1,1,,,,"Mexico, Guatemala"
+Mexican Smallpox Epidemic of 1520–21,Smallpox,No,1520,1521,1.998858447,2750000,,,,,,,,,,,Mexico
+Mexico City Typhus Epidemic of 1813,Typhus,No,1813,1813,0.998858447,20385,,,,,,,,,,,Mexico
+Middle East Black Death Epidemics,Plague,No,1347,1348,1.998858447,,,,,0.33,,,,,,,Middle East
+Middle East Hepatitis Epidemics of World War II,Hepatitis,No,1940,1943,3.998858447,,,,,,0.082,,,1,,,Middle East
+Mongallan Meningitis Epidemics of 1918–24,cerebrospinal meningitis (CSM),No,1918,1924,6.998858447,,,,,,,,,,,,Mongalia
+Mongallan Meningitis Epidemics of  1926–31,cerebrospinal meningitis (CSM),No,1926,1931,5.998858447,1137,,,0.8,,,,,,,,Mongalia
+Montreal Smallpox Epidemic of 1885,Smallpox,No,1885,1885,0.998858447,3164,,,,,,1,1,,,,Canada
+Moroccan Meningitis Epidemics of 1967–70,cerebrospinal meningitis (CSM),No,1967,1970,3.998858447,1230,10000,,0.123,,,,,,,,Morocco
+Moroccan Plague of 1911,Plague,No,1911,1911,0.998858447,9000,,,,,,,,,,,Morocco
+Moroccan Relapsing Fever Epidemic of 1945–46,Relapsing Fever,No,1945,1946,1.998858447,2000,43900,,0.06,,,,,,,,Morocco
+Moroccan Typhus Epidemic of 1942–45,Typhus,No,1942,1945,3.998858447,8040,40200,,0.2,,,,,,,,Morocco
+Moscow Influenza Epidemic of 1995–97,Influenza,No,1995,1997,2.998858447,15,1000000,,0.000015,,,,,,,,Russia
+Naples Typhus Epidemic of 1943–44,Typhus,No,1943,1944,1.998858447,199,1423,,0.139845397,,,,,,,,France
+Napoleon’s Army Epidemics in the Near East,Plague,No,1798,1801,3.998858447,60000,600000,,0.1,,,,,,,,"Egypt, Syria"
+Napoleon’s Army Epidemics in Russia,Typhus,No,1812,1813,1.496118721,,,,,,,,,,,,Russia
+Netherlands “Legionnaires’ Disease” Epidemic,Legionnaire’s disease (LD),No,1999,1999,0.024657534,28,242,,0.166666667,,,,,,,,Netherland
+New England Diphtheria and Scarlet Fever Epidemics of 1735–40,Diphtheria,No,1735,1740,5.998858447,,,,,,,1,1,,,,USA
+New England Influenza Epidemic of 1789,Influenza,No,1789,1789,0.998858447,,,,,,,,,,,,USA Canada
+New England Scarlet Fever Epidemic of 1793–95,Scarlet Fever,No,1793,1795,2.998858447,52,700,,0.074285714,,,1,1,,,,USA
+New Haven Yellow Fever Epidemic of 1794,Yellow Fever,No,1794,1794,0.329452055,160,,,,,,,,,,,USA
+New Mexico Plague of 1965,Plague,No,1965,1965,0.998858447,,,,,,,,,,,,USA
+New York Poliomyelitis Epidemic of 1907,Poliomyelitis,No,1907,1907,0.998858447,,750,,,,,,,,,,USA
+New York Smallpox Epidemics of 1868–75,Smallpox,No,1868,1875,7.998858447,,3084,,,,,,,,,,USA
+New York Yellow Fever Epidemic of 1668,Yellow Fever,No,1668,1668,0.498858447,,,,,,,,,,,,USA
+New York Yellow Fever Epidemic of 1702,Yellow Fever,No,1702,1702,0.998858447,570,,8000,,0.07125,,,,,,,USA
+New York Yellow Fever Epidemics of 1743,Yellow Fever,No,1743,1743,0.998858447,217,,11000,,0.019727273,,,,,,,USA
+New York Yellow Fever Epidemics of 1745,Yellow Fever,No,1745,1745,0.998858447,,,,,,,,,,,,USA
+New York Yellow Fever Epidemic of 1795,Yellow Fever,No,1795,1795,0.998858447,732,,50000,,0.01464,,,,,,,USA
+New Zealand Epidemics of the 1790s,Influenza,No,1790,1799,9.998858447,,,,,,,,,,,,New Zealand
+New Zealand Epidemics of 1820–40,Influenza,No,1820,1840,20.99885845,,,,,0.6,,,,,,,New Zealand
+New Zealand Influenza Epidemic of 1918–19,Influenza,No,1918,1919,1.998858447,6689,,,,0.00815,,,,,,,New Zealand
+New Zealand Measles Epidemics of 1835,Measles,No,1835,1835,0.998858447,,,,,,,,,,,,New Zealand
+New Zealand Measles Epidemics of 1854,Measles,No,1854,1854,0.998858447,4000,,,,,,,,,,,New Zealand
+New Zealand Measles Epidemics of 1915–16,Measles,No,1915,1916,1.998858447,1035,,7000,,0.147857143,,,,1,,,New Zealand
+New Zealand Measles Epidemics of 1938,Measles,No,1938,1938,0.998858447,212,3500,,0.060571429,0.0012695,,,,,,,New Zealand
+New Zealand Poliomyelitis Epidemics 1914,Poliomyelitis,No,1914,1914,0.998858447,25,200,,0.125,,,1,1,,,,New Zealand
+New Zealand Poliomyelitis Epidemics 1915,Poliomyelitis,No,1915,1915,0.998858447,76,1018,,0.074656189,,,,,,,,New Zealand
+New Zealand Poliomyelitis Epidemics 1924,Poliomyelitis,No,1924,1925,1.412785388,173,1185,,0.145991561,,0.000873,1,1,,,,New Zealand
+New Zealand Poliomyelitis Epidemics 1937,Poliomyelitis,No,1937,1937,0.998858447,46,896,,0.051339286,,,,,,,,New Zealand
+New Zealand Poliomyelitis Epidemics 1947-49,Poliomyelitis,No,1947,1949,2.998858447,77,1406,,0.054765292,,,,,,,,New Zealand
+New Zealand Poliomyelitis Epidemics 1952-54,Poliomyelitis,No,1952,1954,2.998858447,,1205,,,,,1,1,,,,New Zealand
+New Zealand Poliomyelitis Epidemics 1955-56,Poliomyelitis,No,1955,1956,1.998858447,73,1485,,0.049158249,,,,,,,,New Zealand
+New Zealand Scarlet Fever Epidemics 1863-64,Scarlet Fever,No,1863,1864,1.998858447,119,,15000,0.00793,0.007933333,,,,,,,New Zealand
+New Zealand Scarlet Fever Epidemics 1876-77,Scarlet Fever,No,1876,1877,1.998858447,331,,,,0.000351,,,,,,,New Zealand
+New Zealand Scarlet Fever Epidemics 1881-82,Scarlet Fever,No,1881,1882,1.998858447,257,,,,,,,,,,,New Zealand
+New Zealand Scarlet Fever Epidemics 1903,Scarlet Fever,No,1903,1903,0.998858447,131,8244.8125,,0.015888779,0.00016,,,,,,,New Zealand
+New Zealand Scarlet Fever Epidemics 1944-45,Scarlet Fever,No,1944,1945,1.998858447,40,12655,,0.003160806,,,,,,,,New Zealand
+New Zealand Troops Poliomyelitis Epidemic of 1940–41,Poliomyelitis,No,1940,1941,1.998858447,4,40,,0.1,,,,,1,1,,Middle East
+New Zealand Whooping Cough Epidemics of 1873,Whooping Cough,No,1873,1873,0.998858447,356,,,,0.001233,,1,,,,,New Zealand
+New Zealand Whooping Cough Epidemics of 1907,Whooping Cough,No,1907,1907,0.998858447,307,,,,0.000334,,1,,,,,New Zealand
+Nicobar Islands Poliomyelitis Epidemic of 1947,Poliomyelitis,No,1947,1947,0.998858447,118,800,9000,0.1475,0.013111111,0.088888889,,,,,,Nicobar Island
+Nigerian Influenza Epidemic of 1918–19,Influenza,No,1918,1919,1.998858447,512000,,,,0.032,,,,,,,Nigeria
+Nigerian Measles Epidemic of 2005,Measles,No,2005,2005,0.248858447,589,20859,,0.028237212,,,,,,,,Nigeria
+Nigerian Meningitis Epidemics of 1949 and 1950,cerebrospinal meningitis (CSM),No,1949,1950,1.998858447,16055,98458,,0.163064454,,,,,,,,Nigeria
+Nigerian Smallpox Epidemic of 1930–35,Smallpox,No,1930,1935,5.998858447,10438,45386,,0.229982814,,,,,,,,Nigeria
+Nigerian Yellow Fever Epidemic of 1986–90,Yellow Fever,No,1986,1990,4.998858447,3633,16230,,0.223844732,,,,,,,,Nigeria
+Northern Rhodesian (Zambean) Plague of 1917–18,Plague,No,1917,1918,1.998858447,177,184,,0.961956522,,,,,,,,Zambia
+Omaha Indian Smallpox Epidemic of 1802,Smallpox,No,1802,1802,0.998858447,,,,,0.666666667,,,,,,,USA
+Ontong Java Island Influenza Epidemics,Influenza,No,1900,1939,39.99885845,,,3500,,0.07,,,,,,,Ontong Java
+Oregon Malaria Epidemic of 1829–33,Malaria,No,1829,1833,4.998858447,150000,,,,0.95,,,,,,,USA
+Oxford Typhus Epidemic of 1577,Typhus,No,1577,1577,0.998858447,500,,,,,,,,,,,England
+Oxford Typhus Epidemic of 1643,Typhus,No,1643,1643,0.998858447,,,,,,,,,,,1,England
+Pakistani Malaria Epidemic of 1929,Malaria,No,1929,1929,0.332191781,40000,,,,,,,,,,,Pakistan
+Panamanian Yellow Fever Epidemics of 1880–1904,Yellow Fever,No,1880,1904,24.99885845,1425,,,,0.41,,,,,,,Panama
+Papua New Guinea Influenza Epidemics of 1969–70,Influenza,No,1969,1970,1.998858447,3000,,,,,0.075,,,,,,Papua New Guinea
+Paris Diphtheria Epidemic of 1576,Diphtheria,No,1576,1576,0.998858447,,,,,,,,,,,,France
+Paris Influenza Epidemic of 1918–19,Influenza,No,1918,1919,1.998858447,,,,,0.333333333,,,,,,,France
+Paris Plague of 1466,Plague,No,1466,1466,0.998858447,40000,,,,,,,,,,,France
+Paris Whooping Cough Epidemic of 1578,Whooping Cough,No,1578,1578,0.998858447,,,,,,,1,1,,,,France
+Peking (Beijing) Pneumonia Epidemics of 1949,broncho pneumonia,No,1949,1949,0.998858447,,,,,,,,1,,,,China
+Peking (Beijing) Pneumonia Epidemics of 1952–53,broncho pneumonia,No,1952,1953,1.998858447,,3148,,0.526,,,,1,,,,China
+Peking (Beijing) Pneumonia Epidemics of 1958–59,broncho pneumonia,No,1958,1959,1.998858447,528,3398,,0.155,,,,1,,,,China
+Persian Cholera Epidemics of 1821–22,Cholera,No,1821,1822,1.998858447,16500,,,,,,,,,,,Iran
+Persian Cholera Epidemics of 1846–63,Cholera,No,1846,1863,17.99885845,12000,,,,,,,,,,,Iran
+Persian Cholera Epidemics of 1866–70,Cholera,No,1866,1870,4.998858447,,,,,,,,,,,,Iran
+Persian Influenza Epidemic of 1833,Influenza,No,1833,1833,0.998858447,,,,,,,,,,,,Iran
+Persian Influenza Epidemic of 1918,Influenza,No,1918,1918,0.415525114,6500,,640000,,0.01015625,0.2,,,,,,Iran
+Persian Plague of 1772–73,Plague,No,1772,1773,1.998858447,250000,,,,,,,,,,,Iran
+Persian Plague of 1800,Plague,No,1800,1800,0.998858447,,,,,,,,,,,,Iran
+Persian Plague of 1830,Plague,No,1830,1839,9.332191781,30000,,,,,,,,,,,Iran
+Peruvian Cholera Epidemic of 1991–92,Cholera,No,1991,1992,1.938584475,3300,426000,,0.007746479,,,,,,,,Peru
+Peruvian Smallpox Epidemic of 1525–27,Smallpox,No,1525,1527,2.998858447,200000,,,0.7,,,,,,,,Peru
+Peruvian Smallpox Epidemic of 1585,Smallpox,No,1585,1585,0.998858447,,,,,,,,,,,,Peru
+Philadelphia “Legionnaires’ Disease” Epidemic,Legionnaire’s disease (LD),No,1976,1976,0.082191781,26,260,,0.1,,,,,,,,USA
+Philadelphia Yellow Fever Epidemic of 1793,Yellow Fever,No,1793,1793,0.998858447,5000,17000,50000,0.294117647,0.1,0.34,,,,,,USA
+Philippine Beriberi Epidemics of 1901–02,Beriberi,No,1901,1902,1.998858447,229,5448,,0.042033774,,,,,,,,Philippine
+Philippine Beriberi Epidemics of 1909,Beriberi,No,1909,1909,0.998858447,329,1700,,0.193529412,,,,,,,,Philippine
+Philippine Cholera Epidemic of 1820–21,Cholera,No,1820,1821,1.998858447,,,,,,,,,,,,Philippine
+Philippine Cholera Epidemics of 1882–83,Cholera,No,1882,1883,1.998858447,17500,,,,,,,,,,,Philippine
+Philippine Cholera Epidemics of 1888–89,Cholera,No,1888,1889,1.998858447,,,,,,,,,,,,Philippine
+Philippine Cholera Epidemic of 1902–04,Cholera,No,1902,1904,2.998858447,200000,,,0.85,0.108,,,,,,,Philippine
+Philippine Cholera Epidemic of 1961–62,Cholera,No,1961,1962,0.442465753,2005,15000,,0.133666667,,,1,1,,,1,Philippine
+Philippine Dengue Epidemics of the 1950s and 1960s,Dengue,No,1953,1969,16.99885845,105.42,2666,,0.039542386,,,1,1,,,,Philippine
+Philippine Influenza Epidemic of 1918–19,Influenza,No,1918,1919,1.998858447,65444,,,,0.0089,,,,,,,Philippine
+Philippine Plague of 1899–1903,Plague,No,1899,1903,4.998858447,601,,,,,,,,,,,Philippine
+Philippine Poliomyelitis Epidemic of 1944–45,Poliomyelitis,No,1944,1945,1.998858447,47,,,,,,,,,,,Philippine
+Philippine Schistosomiasis Epidemic of 1944–45,Schistosomiasis,No,1944,1945,1.998858447,,2535,,,,,,,,,,Philippine
+Philippine Smallpox Epidemic of 1591,Smallpox,No,1591,1591,0.998858447,,,,,,,,,,,,Philippine
+Philistine Plague (Plague of Ashdod),Plague,No,-1050,-1000,50.99885845,,,,,,,,,,,,Isreal
+Picardy Sweat,Profuse Sweating,No,1718,1718,0.998858447,,,,,,,,,,,,France
+"Plague Pandemic, Third",Plague,Yes,1850,1959,109.9988584,30000,,,0.8,,,,,,,,China
+Portuguese Plagues of the 1400s,Plague,No,1415,1481,66.99885845,,,,,,,,,,,,Portugal
+Portuguese Plagues of the 1500s,Plague,No,1521,1600,79,,,,,,,,,,,,Portugal
+Príncipe Sleeping Sickness Epidemic of 1898–1913,Sleeping Sickness,No,1898,1913,15.99885845,3500,,,,,,,,,,,Príncipe
+Prussian Army Dysentery Epidemic of 1792,Dysentery,No,1792,1792,0.498858447,12000,,42000,,0.285714286,,,,,,,France
+Prussian Plague of 1602,Plague,No,1602,1602,0.998858447,18700,49000,,0.381632653,,,,,,,,Poland
+Prussian Typhus Epidemics of 1812–14,Typhus,No,1812,1814,2.998858447,96992,,,,0.33,,,,,,,German
+Puerto Rican Dengue Epidemics of 1994–95,Dengue,No,1994,1995,1.998858447,12,25266,,0.000474947,,,,,,,,Puerto Rico
+Puerto Rican Dengue Epidemics of 1998,Dengue,No,1998,1998,0.998858447,,4677,,,,,,,,,,Puerto Rico
+Punjab Malaria Epidemics of 1878–79,Malaria,No,1878,1879,1.998858447,60000,103000,721000,0.582524272,0.083217753,0.142857143,,,,,,India
+Punjab Malaria Epidemic of 1908,Malaria,No,1908,1908,0.998858447,307316,,,,0.3,,,,,,,India
+Quebec Smallpox Epidemic of 1776,Smallpox,No,1776,1776,0.998858447,30,1500,2500,0.02,0.012,0.6,,,,,,Canada
+Quebec Yellow Fever Epidemic of 1710,Yellow Fever,No,1710,1710,0.498858447,,,,,,,,,,,,Canada
+Reading Typhus Epidemic of 1643,Typhus,No,1643,1643,0.998858447,,,,,,,,,,,,England
+Rhodesian Smallpox Epidemic of 1946–48,Smallpox,No,1946,1948,2.998858447,,2689,,0.3,,,,,,,,Zimbabwe
+Rio de Janeiro Smallpox Epidemics of 1904 and 1908,Smallpox,No,1904,1908,4.998858447,13000,,,,,,,,,,,Brazil
+Rio de Janeiro Yellow Fever Epidemics of 1849–1902,Yellow Fever,No,1849,1902,53.99885845,70000,,,,,,,,,,,Brazil
+Roman Pestilence of 451 B.C.,Unknown,No,-451,-451,0.998858447,,,,,,,,,,,,Italy
+Roman Pestilence of 212 B.C.,Influenza,No,-212,-212,0.998858447,,,,,,,,,,,,Italy
+Roman Plague of A.D. 590,Plague,No,590,590,0.998858447,,,,,,,,,,,,Italy
+Roman Plague of A.D. 680,Plague,No,680,680,0.998858447,,,,,,,,,,,,Italy
+Russian Anthrax Epidemic of 1979,anthrax infection,No,1979,1979,0.998858447,66,,,,,,,,,,,Russia
+Russian Cholera Epidemic of 1829–31,Cholera,No,1829,1831,2.347031963,234664,534548,,0.438995188,,,,,,,,Russia
+Russian Cholera Epidemic of 1892–93,Cholera,No,1892,1893,1.998858447,42250,106600,,0.396341463,,,,,,,,Russia
+Russian Cholera Epidemic of 1910,Cholera,No,1910,1910,0.582191781,110000,230000,,0.47826087,,,,,,,,Russia
+Russian Cholera Epidemics of 1915–22,Cholera,No,1915,1922,7.998858447,,41586,,,,,,,,,,Russia
+Russian Diphtheria Epidemic of the 1990s,Diphtheria,No,1990,1999,9.998858447,4000,140000,,0.028571429,,,,,,,,Russia
+Russian Ergotism Epidemic of 1722,Ergotism,No,1722,1722,0.998858447,20000,,,,,,,,,,,Russia
+Russian Influenza Epidemic of 1918–19,Influenza,No,1918,1919,1.998858447,,,,,0.0005,,,,,,,Russia
+Russian Influenza Epidemics of 1925–50,Influenza,No,1925,1950,25.99885845,,,,,0.0015,,,,,,,Russia
+Russian Influenza Epidemic of 1964–65,Influenza,No,1964,1965,1.998858447,,,,,,0.3,1,1,,,,Russia
+Russian Influenza Epidemic of 1968–69,Influenza,No,1968,1969,1.057534247,,30000000,,,,0.124,1,1,,,,Russia
+Russian (Red) Influenza Pandemic of 1977–78,Influenza,Yes,1977,1978,1.998858447,,,,,,,1,1,,,,"Russia, China"
+Russian Malaria Epidemic of 1922–23,Malaria,No,1922,1923,1.998858447,60000,12000000,,0.005,,,,,,,,Russia
+Russian Plague of 1738–39,Plague,No,1738,1739,1.998858447,30000,,,,,,,,,,,Russia
+Russian Typhus Epidemics of 1914–22,Typhus,No,1914,1922,8.998858447,300000,3000000,,0.1,,,,,,,,Russia
+Rwandan Cholera Epidemic of 1994,Cholera,No,1994,1994,0.998858447,50000,,,,,,,,,,,Rwanda
+Samoan Influenza Epidemics of the 1800s,Influenza,No,1837,1891,54.66552511,,,,,,,,,,,,Samoa Island
+Samoan Whooping Cough Epidemics,Whooping Cough,No,1849,1850,1.998858447,,,,,0.05,,1,,,,,Samoa Island
+San Francisco Plague of 1900–04,Plague,No,1900,1904,4.818493151,121,122,,0.991803279,,,,,,,,USA
+San Francisco Plague of 1907–09,Plague,No,1907,1909,2.998858447,103,205,,0.502439024,,,,,,,,USA
+Santiago Meningitis Epidemic of 1941–43,cerebrospinal meningitis (CSM),No,1941,1943,2.998858447,971,5885,,0.165,,,1,1,,,,Chile
+SARS Outbreaks,SARS,No,2003,2004,1.998858447,722,8398,,0.085972851,,,,,,,,China
+Saudi Arabian and Yemeni Rift Valley Fever Outbreaks of 2000,Rift Valley Fever (RVF),No,2000,2000,0.998858447,167,1169,,0.05,,,,,,,,"Saudi Arabia, Yemen"
+Saudi Arabian Malaria Epidemic of 1950–51,Malaria,No,1950,1951,1.998858447,,24000,,,,,,,,,,Saudi Arabia
+Saudi Arabian Smallpox Epidemic of A.D. 569–571,Smallpox,No,569,571,2.998858447,,,,,,,,,,,,Saudi Arabia
+Scandinavian Epidemics of 1736–39,Influenza,No,1736,1739,3.998858447,,,,,0.0052,,,,,,1,"Sweden, Denmark, Iceland, Finland"
+"Scotland, Great Plague of",Plague,No,1348,1351,3.498858447,,,,,,,,,,,,Scotland
+Scottish Plague of 1600–08,Plague,No,1600,1608,8.998858447,,,,,,,,,,,,Scotland
+Scottish Plague of 1644–48,Plague,No,1644,1648,4.998858447,,,,,,,,,,,,Scotland
+Scottish Smallpox Epidemics of 1823–31,Smallpox,No,1823,1831,8.998858447,,,,,,,,,,,,Scotland
+Scottish Typhus Epidemic of 1836–40,Typhus,No,1836,1840,4.998858447,,5390,,,,,,,,,,Scotland
+Seneca Indian Measles Epidemic of 1592–96,Measles,No,1592,1596,4.998858447,,,,,,,,,,,,USA
+Senegalese Plague of 1942–44,Plague,No,1942,1944,2.998858447,700,,,,,,,,,,,Senegal
+Senegalese Yellow Fever Epidemic of 1778,Yellow Fever,No,1778,1778,0.998858447,60,93,,0.64516129,,,,,,,,Senegal
+Senegalese Yellow Fever Epidemic of 1965,Yellow Fever,No,1965,1965,0.998858447,1400,20000,,0.07,,,,,,,,Senegal
+Serbian Typhus Epidemic of 1914–15,Typhus,No,1914,1915,1.998858447,150000,500000,,0.3,,,,,,,,Serbia
+Shanghai Hepatitis Epidemic of 1988,Hepatitis,No,1988,1988,0.998858447,,320746,,0.001,,0.04082,,,,,,China
+Sierra Leonean Influenza Epidemic of 1918,Influenza,No,1918,1919,1.162785388,1072,,,0.75,,0.666666667,,,,,,Sierra Leon
+Sierra Leonean Lassa Fever Epidemic of 1972,Lassa Fever,No,1972,1972,0.998858447,,,,,,,,,,,,Sierra Leon
+Sierra Leonean Yellow Fever Epidemics of 1815–85,Yellow Fever,No,1815,1885,70.99885845,,,,,,,,,,,,Sierra Leon
+Singapore Beriberi Epidemics of 1942–45,Beriberi,No,1942,1945,3.998858447,,1000,45000,,,0.022222222,,,,,,Singapore
+Singapore Bornholm Disease Epidemic of 1946,Bornholm disease (pleurodynia),No,1946,1946,0.563013699,,125,,,,,,,,,,Singapore
+Singapore Conjunctivitis Epidemics of 1970–80,Conjunctivitis,No,1970,1980,10.99885845,,147189,,,,,,,,,,Singapore
+Singapore Dengue Hemorrhagic Fever Epidemics,Dengue,No,1960,1979,19.99885845,,1817,,0.038095238,,,,,,,,Singapore
+Singapore Poliomyelitis Epidemic of 1958–59,Poliomyelitis,No,1958,1959,1.998858447,,415,,,,,,,,,,Singapore
+Solomon Islands Poliomyelitis Epidemic of 1951,Poliomyelitis,No,1951,1951,0.998858447,156,1280,,0.121875,,,,,,,,Solomon Islands
+Somalian Cholera Epidemic of 1998–2000,Cholera,No,1998,2000,2.498858447,598,6964,,0.08587019,,,,,,,,Somalia
+Somalian Malaria Epidemic of 1961,Malaria,No,1961,1961,0.998858447,,,,,,,,,,,,Somalia
+Somalian Smallpox Epidemic of 1936,Smallpox,No,1936,1936,0.998858447,471,1142,,0.412434326,,,,,,,,Somalia
+South African Cholera Epidemic of 2000,Cholera,No,2000,2000,0.998858447,,20000,,,,,,,,,,South Africa
+South African Diphtheria Epidemics of 1938–43,Diphtheria,No,1938,1943,5.998858447,1000,18969,,0.052717592,,,,,,,,South Africa
+South African HIV/AIDS Epidemic,HIV/AIDS,No,1980,2005,25.99885845,320000,5500000,,0.058181818,,0.188,,,,,,South Africa
+South African Malaria Epidemics of 1929–35,Malaria,No,1929,1935,6.998858447,,12751,,,,,,,,,,South Africa
+South African Malaria Epidemic of 1999–2000,Malaria,No,1999,2000,1.998858447,560,69206,,0.008091784,,,,,,,,South Africa
+South African Meningitis Epidemics of 1967–72,cerebrospinal meningitis (CSM),No,1967,1972,5.998858447,,7553,,0.095,,,,,,,,South Africa
+South African Plagues of 1935 and 1936,Plague,No,1935,1936,1.998858447,349,543,,0.642725599,,,,,,,,South Africa
+South African Pneumonia Epidemics of the Early 1900s,Plague,No,1900,1939,39.99885845,40000,,,,,,,,,,,South Africa
+South African Pneumonia Epidemics of 1926–40,Plague,No,1926,1940,14.99885845,4495,41394,,0.108590617,,,,,,,,South Africa
+South African Tuberculosis Epidemics of 1906–14,Tuberculosis,No,1906,1914,8.998858447,5000,,,0.1,,,,,,,,South Africa
+South African Typhus Epidemics of 1934 and 1935,Typhus,No,1934,1935,1.998858447,1661.66,12782,,0.13,,,,,,,,South Africa
+South American Hantavirus Outbreaks of the 1990s,Hantavirus,No,1995,1999,4.998858447,,200,,0.4,,,,,,,,"Paraguay, Brazil, Chile, Argentina, Ecuadora"
+South Pacific Islands Dysentery Epidemics of 1843,Dysentery,No,1843,1843,0.998858447,130,,,,0.03,,,,,,,French Polynesia
+South Pacific Islands Influenza Epidemic of 1918–19,Influenza,No,1918,1919,1.998858447,50000,,,0.08,,,,,,,,(South Pacific Ocean
+South-West African Typhoid Epidemic of 1904–07,Typhoid,No,1904,1907,3.998858447,689,,14000,,0.049214286,,,,,,,Namibia
+Southwest Pacific Dengue Epidemics of the 1970s,Dengue,No,1971,1979,8.832191781,,,,,,,1,1,,,,Southwest Pacific
+Southwest Pacific Malaria Epidemics of 1942–45,Malaria,No,1942,1945,3.998858447,,100000,,,,0.8,,,,,,Southwest Pacific
+Southwest Pacific Ross River Fever Epidemics of 1979–80,Polyarthritis,No,1979,1980,1.998858447,,30000,,,,0.23,,,,,,Southwest Pacific
+Southwest Pacific Typhus Epidemics of 1942–45,Typhus,No,1942,1945,3.998858447,234,5663,,0.041320855,,,,,,,,Southwest Pacific
+Spanish Cholera Epidemic of 1833–34,Cholera,No,1833,1834,1.998858447,300000,,,,,,,,,,,Spain
+Spanish Cholera Epidemic of 1854–55,Cholera,No,1854,1855,1.998858447,236000,830000,,0.284337349,,,,,,,,Spain
+Spanish Cholera Epidemic of 1865,Cholera,No,1865,1865,0.998858447,120000,,,,,,,,,,,Spain
+Spanish Cholera Epidemic of 1884–85,Cholera,No,1884,1885,1.998858447,120200,429285.7143,,0.28,,,,,,,,Spain
+Spanish Diphtheria Epidemics of 1583–1618,Diphtheria,No,1583,1618,35.99885845,,,,,,,,,,,,Spain
+Spanish Influenza Pandemic of 1917–19,Influenza,Yes,1917,1919,2.998858447,21000000,200000000,,0.105,,,,1,1,,,Spain
+Spanish Plague of 1596–1602,Plague,No,1596,1602,6.998858447,550000,,,,0.07,,,,,,,Spain
+Spanish Plagues of the 1400s,Plague,No,1400,1499,99.99885845,,,,,,,,,,,,Spain
+Spanish Plagues of the 1500s,Plague,No,1500,1599,99.99885845,,,,,,,,,,,,Spain
+Spanish Plagues of 1637,Plague,No,1637,1637,0.998858447,20000,,,,,,,,,,,Spain
+Spanish Plagues of 1646–52,Plague,No,1646,1652,6.998858447,200000,,,,,,,,,,,Spain
+Spanish Plagues of 1678–82,Plague,No,1678,1682,4.998858447,,,,,,,,,,,,Spain
+Spanish Plagues of 1905–06,Plague,No,1905,1906,1.998858447,23,,,,,,,,,,,Spain
+Spanish Plagues of 1923,Plague,No,1923,1923,0.998858447,,,,,,,,,,,,Spain
+Spanish Yellow Fever Epidemics of 1803–05,Yellow Fever,No,1803,1805,2.998858447,19384.61538,,53846.15385,,0.36,,,,,,,Spain
+Sri Lankan (Ceylonese) Dysentery Epidemic of 1942,Dysentery,No,1942,1942,0.998858447,2275,59180,,0.038442041,0.00038,,1,,,,,Sri Lanka
+Sri Lankan (Ceylonese) Malaria Epidemic of 1934–35,Malaria,No,1934,1935,1.998858447,254968,,,,0.1,,,,,,,Sri Lanka
+Sri Lankan (Ceylonese) Malaria Epidemic of 1968–69,Malaria,No,1968,1969,1.998858447,,500000,,,,,,,,,,Sri Lanka
+Stockholm Poliomyelitis Epidemic of 1887,Poliomyelitis,No,1887,1887,0.998858447,44,,,,,,,,,,,Sweden
+Strasbourg Dancing Mania,Dancing Mania,No,1518,1518,0.998858447,,,,,,,,,,,,France
+Sub-Saharan African HIV/AIDS Pandemic,HIV/AIDS,Yes,1990,2010,20.99885845,20000000,24500000,,0.816326531,0.1,,,,,,,Sub-Saharan Africa
+Sub-Saharan African Yellow Fever Outbreaks of 2000–05,Yellow Fever,No,2000,2005,5.998858447,30000,200000,,0.15,,,,,,,,Sub-Saharan Africa
+Sudanese Ebola Outbreaks of 1976,Ebola,No,1976,1976,0.998858447,59,137,,0.430656934,,,,,,,,Sudan
+Sudanese Ebola Outbreaks of 1979,Ebola,No,1979,1979,0.998858447,36.4,56,,0.65,,,,,,,,Sudan
+Sudanese Leishmaniasis Epidemic of 1988–93,Visceral Leishmaniasis,No,1988,1993,5.998858447,40000,650000,,0.061538462,,,,,,,,Sudan
+Sudanese Relapsing Fever Epidemic of 1926–28,Relapsing Fever,No,1926,1928,2.998858447,200000,,750000,,0.266666667,,,,,,,Sudan
+Sudanese Yellow Fever Epidemic of 1940,Yellow Fever,No,1940,1940,0.998858447,1500,15000,,0.1,,,,,,,,Sudan
+Swedish Epidemics of the Early 1740s,Relapsing Fever,No,1740,1744,4.998858447,,,,,,,,,,,,Sweden
+Swedish Poliomyelitis Epidemic of 1905,Poliomyelitis,No,1905,1905,0.412785388,,1031,,,,,1,1,,,,Sweden
+Swedish Poliomyelitis Epidemic of 1911,Poliomyelitis,No,1911,1911,0.998858447,,3840,,,,,,,,,,Sweden
+Sydney Influenza Epidemics of 1890–91,Influenza,No,1890,1891,1.998858447,234,125000,,0.001872,0.0006,,1,,,,1,Australia
+Sydney Measles Epidemics of the 1800s,Measles,No,1800,1899,99.99885845,748,13000,,0.057538462,,,1,,,,,Australia
+Sydney Plague of 1900,Plague,No,1900,1900,0.552054795,103,303,,0.339933993,,,,1,1,,,Australia
+Sydney Smallpox Epidemic of 1881–82,Smallpox,No,1881,1882,1.998858447,41,163,,0.251533742,,,1,1,,,,Australia
+Syrian Cholera Epidemic of 1822–23,Cholera,No,1822,1823,1.998858447,,,,,,,,,,,,Syria
+Syrian Cholera Epidemic of 1947–48,Cholera,No,1947,1948,1.998858447,,,,,,,,,,,,Syria
+Syrian Plague of A.D. 638–639 (Plague of Amwãs),Plague,No,638,639,1.998858447,25000,,,,,,,,,,,Syria
+Tahitian Poliomyelitis Epidemic of 1951,Poliomyelitis,No,1951,1951,0.998858447,8,128,,0.0625,,,,1,,,,French Polynesia
+Tahitian Smallpox Epidemic of 1841,Smallpox,No,1841,1841,0.998858447,200,8000,,0.025,,,,,,,,French Polynesia
+Tahitian Venereal Disease Epidemic of 1768–69,Venereal Disease,No,1768,1769,1.998858447,,,,,,,,,,,,French Polynesia
+Taiwanese Cholera Epidemic of 1962,Cholera,No,1962,1962,0.498858447,2210,3809,,0.580204778,,,,,,1,1,China
+Taiwanese Encephalitis Epidemics of 1958–61,Japanese B encephalitis (JBE),No,1958,1961,3.998858447,283,1133,,0.249779347,,,1,,,,,China
+Taiwanese Rubella Epidemics of 1957–58,Measles,No,1957,1958,1.998858447,,,,,,0.3,,,,,,China
+Taiwanese Rubella Epidemics of 1968–69,Measles,No,1968,1969,1.998858447,,,,,,0.3,,1,,,,China
+Tanganyikan Influenza Epidemic of 1957,Influenza,No,1957,1957,0.998858447,,93725,,,,,,,,,,Tanzania
+Tanganyikan Meningitis Epidemic of 1942,cerebrospinal meningitis (CSM),No,1942,1942,0.998858447,6960,11687,,0.595533499,,,,,,,,Tanzania
+Tanganyikan Plague of 1951–53,Plague,No,1951,1953,2.998858447,250,1600,,0.15625,,,,,,,,Tanzania
+TB Pandemic of the 1990s–,Tuberculosis,Yes,1990,1999,9.998858447,2000000,9000000,,0.222222222,,,,,,,,world
+Thai Beriberi Epidemics of 1890–1910,Beriberi,No,1890,1910,20.99885845,1063,22670,,0.046890163,,,,,,,,Thailand
+Thai Cholera Epidemic of 1820,Cholera,No,1820,1820,0.832191781,30000,,,,,,,,,,,Thailand
+Thai Dengue Hemorrhagic Fever Epidemics,Dengue,No,1955,1985,30.99885845,,14160,,,,,,,,,,Thailand
+Thai HIV/AIDS Epidemic,HIV/AIDS,No,1970,2010,40.99885845,,,,,,,,,,,,Thailand
+Thasian Mumps Epidemic,Mumps,No,-410,-410,0.998858447,,,,,,,,,1,,,Greece
+Thirty Years’ War Epidemics,Typhus,No,1618,1648,30.99885845,,,,,,,,,,,,Germany
+Tiverton Typhus Epidemic of 1644,Typhus,No,1644,1644,0.998858447,105,,,,,,,,,,,England
+Tongan and Samoan Measles Epidemics of 1893,Measles,No,1893,1893,0.998858447,2600,,,,0.05,,,,,,,South Pacific
+Torgau Typhus and Dysentery Epidemic of 1813,Typhus,No,1813,1813,0.998858447,30700,,,,,,,,,,,Germany
+Tours Diphtheria Epidemic of 1818–20,Diphtheria,No,1818,1820,2.998858447,150,,,,,,,,,,,France
+Tripoli Cholera Epidemic of 1911,Cholera,No,1911,1911,0.248858447,3000,10000,,0.3,,,,,,,,Lybia
+Tunisian Cholera Epidemic of 1849–50,Cholera,No,1849,1850,1.998858447,56000,118500,,0.47257384,,,,,,,,Tunisia
+Tunisian Plague of 1818–20,Plague,No,1818,1820,2.998858447,40000,120000,,0.333333333,0.25,,,,,,,Tunisia
+Tunis Typhus Epidemic of 1868,Typhus,No,1868,1868,0.998858447,5000,,,,,,,,,,,Tunisia
+Turkish Influenza Epidemic of 1957–58,Influenza,No,1957,1958,0.740639269,,369255,,,,,,,,,,Turkey
+Ugandan Ebola Outbreak of 2000,Ebola,No,2000,2000,0.998858447,170,425,,0.4,,,,,,,,Uganda
+Ugandan HIV/AIDS Epidemic,HIV/AIDS,No,1980,2005,25.99885845,91000,1000000,,0.091,,0.07,,,,,,Uganda
+Ugandan Plagues of 1926–31,Plague,No,1926,1931,5.998858447,13127,14899,,0.9,,,,,,,,Uganda
+Ugandan Sleeping Sickness Epidemic of 1940–43,Sleeping Sickness,No,1940,1943,3.998858447,250,2500,,0.1,,,,,,,,Uganda
+Ugandan-Tanganyikan Sleeping Sickness Epidemic of 1900–09,Sleeping Sickness,No,1900,1909,9.998858447,100000,,,,,,,,,,,"Uganda, Tanganyika"
+U.S. and Caribbean Dengue Epidemic of 1826–28,Dengue,No,1826,1828,2.998858447,,,,,,,,,,,,"USA, Caribbea"
+U.S. Anthrax Outbreak of 2001,anthrax infection,No,2001,2001,0.998858447,5,20,,0.25,,,,,,,,USA
+U.S.-British-Chinese Armies’ Typhus Epidemics of 1943–45,Typhus,No,1943,1945,2.998858447,98,1098,,0.089,,,,,,,,"Burma, India"
+U.S. Cholera Epidemic of 1832,Cholera,No,1832,1832,0.998858447,,,,,,,,,,,,USA
+U.S. Cholera Epidemic of 1849,Cholera,No,1849,1849,0.998858447,,,,,0.099,,,,,,,USA
+U.S. Cholera Epidemic of 1866,Cholera,No,1866,1866,0.998858447,,,,,0.049,,,,,,,USA
+U.S. Cholera Epidemic of 1873,Cholera,No,1873,1873,0.998858447,1234,,,,,,,,,,,USA
+U.S. Civil War Epidemics,Dysentery,No,1861,1865,4.215981735,44558,1739135,,0.025620783,0.071,,,,,,,USA
+U.S. Dengue Epidemics of 1850–51,Dengue,No,1850,1851,1.998858447,,,,,,,,,,,,USA
+U.S. Dengue Epidemics of 1878–80,Dengue,No,1878,1880,2.998858447,,,,,,,,,,,,USA
+"U.S. Hantavirus (Sin Nombre Virus, Four Corners Disease) Outbreak of 1993",Hantavirus,No,1993,1993,0.665525114,27,45,,0.6,,,,,,,,USA
+U.S. Hepatitis C Epidemic of the 1990s–2006,Hepatitis,No,1990,2006,16.99885845,,4000000,,,,,,,,1,,USA
+U.S. HIV/AIDS Epidemic,HIV/AIDS,No,1981,2005,24.99885845,500000,900000,,0.555555556,,,,,,,,USA
+U.S. Influenza Epidemic of 1957–58,Influenza,No,1957,1958,1.998858447,70000,,,,,,1,,,,1,USA
+U.S. Influenza Epidemic of 1968–69,Influenza,No,1968,1969,1.998858447,33000,30000000,,0.0011,,,1,,,1,,USA
+U.S. Plague Outbreaks,Plague,No,1900,2002,102.9988584,20,,,,,,,,,,,USA
+U.S. Poliomyelitis Epidemic of 1916,Poliomyelitis,No,1916,1916,0.998858447,7000,27000,,0.259259259,,,,,,,,USA
+U.S. Poliomyelitis Epidemic of 1931,Poliomyelitis,No,1931,1931,0.998858447,4138,33918.03279,,0.122,,,,,,,,USA
+U.S. Poliomyelitis Epidemic of 1942–53,Poliomyelitis,No,1942,1953,11.99885845,,60000,,,,,,,,,,USA
+U.S. Rubella Epidemic of 1964,Measles,No,1964,1964,0.998858447,,12500000,,,,,,,,,,USA
+U.S. Smallpox Epidemic of 1901–03,Smallpox,No,1901,1903,2.998858447,3573,21779,,0.164057119,,,,,,,,USA
+U.S. Venereal Disease Epidemics of the 1990s–2006,sexually transmitted diseases (STDs),No,1990,2006,16.99885845,,19000000,,,,,,,,,,USA
+U.S. West Nile Virus Outbreaks of 1999–2005,West Nile Virus (WNV),No,1999,2005,6.998858447,600,16000,,0.0375,,,,,,,,USA
+U.S. Yellow Fever Epidemics of 1878–79,Yellow Fever,No,1878,1879,1.998858447,20000,100000,,0.2,,,,,,,,USA
+Upper Voltaic Meningitis Epidemic of 1939,cerebrospinal meningitis (CSM),No,1939,1939,0.998858447,3118,6783,,0.459678608,,,,,,,,Upper Volta
+Usambara Malaria Epidemic of 1941–42,Malaria,No,1941,1942,1.998858447,240,1500,,0.16,,,,,,,,Tanzania
+Venezuelan Smallpox Epidemic of 1580,Smallpox,No,1580,1580,0.998858447,20000,,30000,,0.666666667,,,,,,,Venezuela
+Venezuelan Yellow Fever Epidemic of 1929,Yellow Fever,No,1929,1929,0.998858447,,,,0.05,,,,,,,,Venezuela
+Venice Plague of 1575–77,Plague,No,1575,1577,2.998858447,50000,90000,,0.555555556,,,,,,,,Italy
+Vermont Poliomyelitis Epidemic of 1894,Poliomyelitis,No,1894,1894,0.998858447,,132,,,,,,,,,,USA
+"Vienna, Great Plague of",Plague,No,1679,1679,0.998858447,,,,,0.5,,,,,,,Austria
+Vienna Plague of 1349,Plague,No,1349,1349,0.998858447,,,,,,,,,,,,Austria
+Vietnamese Dengue Epidemics of the 1950s,Dengue,No,1950,1959,9.998858447,,,,,,,,,,,,Vietnam
+Vietnamese Dengue Epidemics of the 1960s,Dengue,No,1960,1969,9.998858447,203,3144,,0.06456743,,,,,,,,Vietnam
+Vietnamese Dengue Epidemics of the 1970s,Dengue,No,1970,1979,9.998858447,1424,18581,,0.076637425,,,,,,,,Vietnam
+Vietnamese Plagues of the Early 1900s,Plague,No,1900,1941,41.99885845,,,,,,,,,,,,Vietnam
+Vietnamese Plagues of the 1960s,Plague,No,1960,1969,9.998858447,,175000,,,,,,,,,,Vietnam
+Vietnamese Poliomyelitis Epidemics of 1958–60,Poliomyelitis,No,1958,1960,2.998858447,,,,,,0.0005216,,,,,,Vietnam
+West African Cholera Epidemics of 1970–71,Cholera,No,1970,1971,1.998858447,1400,28000,,0.05,,,,,,,,West Africa
+West African Meningitis Epidemic of 1996,cerebrospinal meningitis (CSM),No,1996,1996,0.998858447,10000,100000,,0.1,,,,,,,,West Africa
+West and Central African Cholera Epidemic of 2005,Cholera,No,2005,2005,0.998858447,394,27461,,0.01434762,,,,,,,,West and Central Africa
+Western European HIV/AIDS Epidemic,HIV/AIDS,No,1980,2005,25.99885845,,,,,,,,,,,,Western Europe
+"Xerxes, Plague of",Dysentery,No,-480,-480,0.998858447,,,,,,,,,,,,Greece
+Xinjiang (Sinkiang) Hepatitis Epidemic of 1986–88,Hepatitis,No,1986,1988,2.998858447,,119280,,,,0.03,,1,1,1,,China
+Yellow Plague of A.D. 664,Plague,No,664,664,0.998858447,,,,,,,,,,,,Ireland
+Yukon Indian Influenza Epidemic of 1900,Influenza,No,1900,1900,0.998858447,,,,,0.211940299,,,,,,,USA
+Zairean Ebola Epidemic of 1976,Ebola,No,1976,1976,0.998858447,274,,,,,,,,,,,Congo
+Zairean Ebola Epidemic of 1995,Ebola,No,1995,1995,0.998858447,153,205,,0.746341463,,,,,,,,Congo
+Zairean Plague of 1992,Plague,No,1992,1992,0.998858447,78,191,,0.408376963,,,,,,,,Congo
+Zambean Smallpox Epidemic of 1955,Smallpox,No,1955,1955,0.998858447,501,3538,,0.141605427,,,,,,,,Zambia
+Zanzibar Cholera Epidemic of 1869,Cholera,No,1869,1869,0.998858447,70000,,,,,,,,,,,Tanzania
+Mweka ebola epidemic,Ebola,No,2007,2007,0.998858447,187,264,,0.708333333,,,,,,,,Congo
+Ethiopia cholera epidemic of 2007,Cholera,No,2007,2007,0.998858447,684,,,,,,,,,,,Ethiopia
+Iraq cholera outbreak of 2007,Cholera,No,2007,2007,0.998858447,10,7000,,0.001428571,,,,,,,,Iraq
+"Puerto Rico, Dominican Republic, and Mexico dengue fever epidemic of 2007",Dengue,No,2007,2007,0.998858447,183,,,,,,,,,,,"Puerto Rico, Dominican Republic, Mexico"
+Uganda ebola outbreak of 2007,Ebola,No,2007,2007,0.998858447,37,,,,,,,,,,,Uganda
+Netherlands Q-fever epidemic of 2007,Q-fever,No,2007,2018,11.99885845,95,,,,,,,,,,,Netherland
+Brazil dengue epidemic of 2008,Dengue,No,2008,2008,0.998858447,67,,,,,,,,,,,Brazil
+Cambodia dengue epidemic of 2008,Dengue,No,2008,2008,0.998858447,407,,,,,,,,,,,Cambodia
+Chad cholera epidemic of 2008,Cholera,No,2008,2008,0.998858447,123,,,,,,,,,,,Chad
+"China hand, foot, and mouth disease epidemic of 2008–2017","Hand, foot, and mouth disease",No,2008,2017,9.998858447,3322,,,,,,,,,,,China
+India cholera epidemic of 2008,Cholera,No,2008,2008,0.998858447,115,,,,,,,,,,,India
+Madagascar plague outbreak of 2008 ,Plague,No,2008,2008,0.998858447,18,,,,,,,,,,,Madagascar
+Philippines dengue epidemic of 2008,Dengue,No,2008,2008,0.998858447,172,,,,,,,,,,,Philippines
+Zimbabwean cholera outbreak of 2008–09,Cholera,No,2008,2008,0.998858447,4288,98592,,0.043492373,,,,,,,,Zimbabwe
+Bolivian dengue fever epidemic of 2009,Dengue,No,2009,2009,0.998858447,18,31000,,0.000580645,,,,,,,,Bolivia
+Gujarat hepatitis outbreak of 2009,Hepatitis,No,2009,2009,0.998858447,49,125,,0.392,,,,,,,,India
+Queensland dengue outbreak of 2009,Dengue,No,2009,2009,0.998858447,1,503,,0.001988072,,,,,,,,Australia
+West African meningitis outbreak of 2009–10,cerebrospinal meningitis (CSM),No,2009,2010,1.998858447,1100,25000,,0.044,,,,,,,,West Africa
+Swine flu pandemic of 2009,Influenza,Yes,2009,2010,1.998858447,284000,491382,,0.577961749,,,,,,,,Worldwide
+Haiti cholera outbreak of 2010s,Cholera,No,2009,2019,10.99885845,10075,,,,,,,,,,,Haiti
+Congo measles outbreak of 2010–2014,Measles,No,2009,2014,5.998858447,4500,,,,,,,,,,,Congo
+"Vietnam hand, foot and mouth disease epidemic of 2011","Hand, foot and mouth disease",No,2011,2011,0.998858447,170,,,,,,,,,,,Vietnam
+dengue outbreak in Pakistan of 2011,Dengue,No,2011,2011,0.998858447,350,21204,,0.01650632,,,,,,,,Pakistan
+"yellow fever outbreak in Darfur, Sudan of 2012",Yellow fever,No,2012,2012,0.998858447,171,855,,0.2,,,,,,,,Sudan
+Middle East respiratory syndrome coronavirus outbreak of 2012,Middle East respiratory syndrome (MERS-CoV),No,2012,2012,0.998858447,936,2586,,0.361948956,,,,,,,,Worldwide
+dengue outbreak in Singapore of 2013,Dengue,No,2013,2013,0.998858447,8,22318,,0.000358455,,,,,,,,Singapore
+Vietnam measles outbreak of 2013,Measles,No,2013,2014,1.998858447,142,,,,,,,,,,,Vietnam
+Western African Ebola virus epidemic,Ebola,No,2013,2016,3.998858447,11323,28646,,0.395273337,,,,,,,,Western Africa
+chikungunya outbreak of 2013–14,Chikungunya,No,2013,2015,2.998858447,183,355000,,0.000515493,,,,,,,,Americas
+Avian influenza epidemic of 2013–19,Influenza A virus subtype H7N9,No,2013,2019,6.998858447,616,,,,,,,,,,,China
+Madagascar plague outbreak of 2014,Bubonic plague,No,2014,2017,3.998858447,71,263,,0.269961977,,,,,,,,Madagascar
+Odisha jaundice outbreak of 2014,"Primarily Hepatitis E, but also Hepatitis A",No,2014,2015,1.998858447,36,3966,,0.009077156,,,,,,,,India
+Indian swine flu outbreak of 2015,Influenza,No,2015,2015,0.998858447,2035,33761,,0.060276651,,,,,,,,India
+Zika virus epidemic of 2015–16,Zika virus,No,2015,2016,1.998858447,18,174667,,0.000103053,,,,,,,,Worldwide
+Angola and Congo yellow fever outbreak of 2016,Yellow fever,No,2016,2016,0.998858447,498,4347,,0.114561767,,,,,,,,"Angola, Congo"
+Yemen cholera outbreak of 2016–2021,Cholera,No,2016,2020,4.998858447,3886,2510806,,0.00154771,,,,,,,,Yemen
+dengue outbreak in Peshawar of 2017,Dengue,No,2017,2017,0.998858447,69,4320,,0.015972222,,,,,,,,Pakistan
+Gorakhpur Japanese encephalitis outbreak of 2017,Japanese B encephalitis (JBE),No,2017,2017,0.998858447,1317,,,,,,,,,,,India
+dengue outbreak in Sri Lanka of 2017,Dengue,No,2017,2017,0.998858447,440,186101,,0.002364308,,,,,,,,Sri Lanka
+United States flu season of 2017–18,Influenza,No,2017,2018,1.998858447,61000,,,,,,,,,,,United States
+Nipah virus outbreak in Kerala of 2018,Nipah virus,No,2018,2018,0.998858447,17,19,,0.894736842,,,,,,,,India
+Kivu Ebola epidemic,Ebola,No,2018,2020,2.998858447,2280,3470,,0.657060519,,,,,,,,"Congo, Uganda"
+measles outbreak in Congo of 2019,Measles,No,2019,2020,1.998858447,7018,380766,,0.018431267,,,,,,,,Congo
+New Zealand measles outbreak of 2019–2020,Measles,No,2019,2020,1.998858447,2,2093,,0.000955566,,,,,,,,New Zealand
+Philippines measles outbreak of 2019,Measles,No,2019,2019,0.998858447,415,31056,,0.013362957,,,,,,,,Philippines
+Kuala Koh measles outbreak of 2019,Measles,No,2019,2019,0.998858447,15,43,,0.348837209,,,,,,,,Malaysia
+Samoa measles outbreak of 2019,Measles,No,2019,2020,1.998858447,83,5707,,0.014543543,,,,,,,,Samoa
+dengue fever epidemic of 2019–20,Dengue,No,2019,2020,1.998858447,3930,,,,,,,,,,,"Asia-Pacific, Latin America"
+Nigeria lassa fever epidemic of 2019,Lassa fever,No,2019,2020,1.998858447,246,,,,,,,,,,,Nigeria
+COVID-19 pandemic,SARS-CoV-2 virus,Yes,2020,2020,0.998858447,3381269,163161728,,0.02072342,,,,,,,1,Worldwide
+Democratic Republic of the Congo Ebola outbreak of 2020,Ebola,No,2020,2020,0.998858447,55,,,,,,,,,,,Congo
+Nigeria yellow fever epidemic of 2020,Yellow Fever,No,2020,2020,0.998858447,296,,,,,,,,,,,Nigeria
