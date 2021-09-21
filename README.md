@@ -7,7 +7,7 @@ It is coded in R, which is an open source statistical software.
 
 The sample program has been tested using R4.0.4.
 
-It is an ongoing project and expected to be finished by early 2020.
+It is an ongoing project and expected to be finished by early 2022.
 
 # File Structure 
 **Root folder**
