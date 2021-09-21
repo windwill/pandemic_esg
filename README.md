@@ -23,4 +23,4 @@ subfolder "esg_input" contains all the input files needed to simulate economic f
 Script: pandemic_scrip_fullt.R that contains codes to perform data exploration, distribution fitting, correlation analysis, ESG simulations, etc. The script itself is documented.
 
 # Run Program
-
+The program can be easily run in R GUI by maintaing the same folder structure. The location of the input files can be updated in line 25 setwd. It is recommended the codes are run block by block so that interim results can be viewed and analyzed, if needed.
