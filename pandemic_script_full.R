@@ -1354,7 +1354,7 @@ perc <- function(scns, ynames, percs, start_period, end_period, ext_ind = "All")
 
 }
 
-perc(simulations_ins,c("cfr"),percs,1,100, ext_ind="All")
+#perc(simulations_ins,c("cfr"),percs,1,100, ext_ind="All")
 
 # summarize extreme_ind per sim per period
 summarize_extreme_ind <- function(simulations_ins,nperiod,sim){
@@ -1523,7 +1523,7 @@ esg_fr <- function(var1,mapping,histEF,histCMV,econchol,normalchol,extchol,simul
 		if (sim_mf$extreme_ind[i+2]=="N"){
 			rnds <- t(data.matrix(normalchol)) %*% (sdinormal * rnorm(length(sdinormal)))
 			rnds <- as.numeric(rnds)
-			print(det_returns, rnds)
+			#print(det_returns, rnds)
 		}else{
 			rnds <- t(data.matrix(extchol)) %*% (sdipandemic * rnorm(length(sdipandemic)))
 			rnds <- (corrpandemic*(det_returns-stable_value) + sqrt(1-corrpandemic*corrpandemic)*rnds) * sdipandemic #stable_value; mappingX_i_m$x1
