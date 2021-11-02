@@ -107,6 +107,7 @@ notch = FALSE
 hist(df$Duration, 
      main="Histogram of Pandemic/Epidemic Duration", 
      xlab="Duration", 
+     ylab="Probability Density", 
      border="white", 
      col="blue",
      xlim=c(0,30),
@@ -169,6 +170,7 @@ notch = FALSE
 hist(df_pandemic$Duration, 
      main="Histogram of Pandemic Duration", 
      xlab="Duration", 
+	 ylab="Probability Density",
      border="white", 
      col="blue",
      xlim=c(0,30),
@@ -1198,19 +1200,8 @@ esg_ins <- function(freq_size, freq_p, freq_u, freq_sigma_u, freq_xi,
 				
 				ag_death <- rmultinom(1, 10000, ag_probs)/10000
 				
-				if (runif(1) > 0.037){
-					pandemic <- 0
-					extreme_ind <- "N"
-				} else {
-					infection <- wp*ir
-					death <- infection*cfr
-					pandemic <- 1
-					if (death >= death_threshold | infection >= infection_threshold){
-						extreme_ind <- "Y"
-					} else {
-						extreme_ind <- "N"
-					}
-				}
+				pandemic <- 0
+				extreme_ind <- "N"
 				ins_output[row_idx,]<-c(sim,i,duration,cfr,ir,as.vector(ag_death),pandemic,extreme_ind)
 				row_idx <- row_idx+1
 			}
@@ -1271,13 +1262,48 @@ if (parallel_compute){
 	}
 }
 
-#if you  do not use parallel computing, you can replicate numbers in the report
 for (name in colnames(simulations_ins)){
 # print(name)
 	if (name != "extreme_ind"){
 		simulations_ins[,name] <- as.numeric(simulations_ins[,name])
 	}
 }
+
+#Randomly choosing pandemic events based on probability 3.7% and possible global mortality rates
+set.seed(123)
+n_events <- nrow(simulations_ins)
+n_pandemics <- rbinom(1, n_events,.037) #3.7% probabilty
+
+# The split among the three categories are based on historical experience of global pandemic events
+n_pandemics_cat_1 <- rbinom(1, n_pandemics,.8) #global mortality rate <0.0005
+n_pandemics_cat_2 <- rbinom(1, n_pandemics,.17) #global mortality rate belongs to [0.0005, 0.01)
+n_pandemics_cat_3 <- n_pandemics - n_pandemics_cat_1 - n_pandemics_cat_2 #global mortality rate belongs to [0.0005, 0.12].
+
+glb_mort_rate = simulations_ins$cfr * simulations_ins$ir
+n_cat_1 = sum()
+cat_1_ind <- glb_mort_rate < 0.0005
+cat_2_ind <- (glb_mort_rate >= 0.0005) & (glb_mort_rate < 0.01)
+cat_3_ind <- (glb_mort_rate >= 0.01) & (glb_mort_rate <= 0.12)
+
+cat_1_rows <- as.numeric(rownames(simulations_ins)[cat_1_ind])
+simulations_ins$pandemic[sample(cat_1_rows,n_pandemics_cat_1)] <- 1 
+cat_2_rows <- as.numeric(rownames(simulations_ins)[cat_2_ind])
+simulations_ins$pandemic[sample(cat_2_rows,n_pandemics_cat_2)] <- 1 
+cat_3_rows <- as.numeric(rownames(simulations_ins)[cat_3_ind])
+simulations_ins$pandemic[sample(cat_3_rows,n_pandemics_cat_3)] <- 1 
+
+infection <- wp*simulations_ins$ir
+death <- infection*simulations_ins$cfr
+simulations_ins[(death >= death_threshold | infection >= infection_threshold) & simulations_ins$pandemic == 1,]$extreme_ind <- "Y"
+
+for (name in colnames(simulations_ins)){
+# print(name)
+	if (name != "extreme_ind"){
+		simulations_ins[,name] <- as.numeric(simulations_ins[,name])
+	}
+}
+
+simulations_ins <- simulations_ins[order(simulations_ins$sim, simulations_ins$period),]
 
 write.csv(simulations_ins,"esg_ins.csv",row.names=FALSE)
 
@@ -1565,7 +1591,7 @@ for (name in colnames(simulations)){
 apply(simulations[,!names(simulations) %in% c("extreme_ind")],2,mean)
 apply(simulations[,!names(simulations) %in% c("extreme_ind")],2,sd)
 
-perc(simulations,c("tby_10yr"),percs,1,20)
+#perc(simulations,c("tby_10yr"),percs,1,20)
 
 # Percentile plots in Section 5.2
 percentile_plot <- function(simulations, variable, start_period, end_period, ylimit, ext_ind = "All"){
