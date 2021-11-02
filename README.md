@@ -24,3 +24,6 @@ Script: pandemic_scrip_fullt.R that contains codes to perform data exploration, 
 
 # Run Program
 The program can be easily run in R GUI by maintaing the same folder structure. The location of the input files can be updated in line 25 setwd. It is recommended the codes are run block by block so that interim results can be viewed and analyzed, if needed.
+
+# Run Speed
+Using parallel computing mode and 4 CPU cores, it took around 4.5 mins to generate 1000 scenarios of 100 quarters which contains around 70,000 pandemic/epidemic events, and 100,000 records of economic factors and capital market variables.
