@@ -1362,7 +1362,8 @@ summarize_extreme_ind <- function(simulations_ins,nperiod,sim){
 				 period=double(),
 				 extreme_ind=character(),
 				 no_of_events=integer(),
-				 new_extreme_events=integer())
+				 new_extreme_events=integer(),
+				 stringsAsFactors=FALSE)
 
 	p <- 1
 	while (p<=nperiod){
